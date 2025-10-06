@@ -1,0 +1,3698 @@
+[
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "respaw_time": 60,
+    "killer_name": "",
+    "killed_at": "",
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  }
+]

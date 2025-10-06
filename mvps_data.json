@@ -1,0 +1,3894 @@
+[
+  {
+    "_id": "60da8a7fcad5cc4e6e1a549a",
+    "monster_id": 1252,
+    "monster_info": "hatii",
+    "size": "large",
+    "race": "brute",
+    "type": "water",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1252.png",
+    "main_atb": {
+      "agi": 126,
+      "int": 65,
+      "luk": 60,
+      "vit": 82,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "197,000",
+      "level": "73",
+      "def": "40 + 82 ~ 97",
+      "m_def": "45 + 106",
+      "attack": "1,700 ~ 1,900 (3)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "169.6",
+      "move_speed": "400 ms",
+      "base_exp": "50,050",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "20,020",
+      "job_exp_per_hp": "0.102",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.046 / -0.048",
+      "flee": "243",
+      "crit_shield": "12%",
+      "hit": "219",
+      "defense_rating": "1.22"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 25,
+      "earth": 100,
+      "shadow": 75,
+      "water": -50,
+      "undead": 25,
+      "fire": 0,
+      "holy": 75,
+      "wind": 200,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "baby_hatii_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 82.44
+      },
+      {
+        "name": "ice_falchion",
+        "img": "http://db.irowiki.org/image/item/1131.png",
+        "rate": 2.17
+      },
+      {
+        "name": "katar_of_frozen_icicle",
+        "img": "http://db.irowiki.org/image/item/1256.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hatii_claw",
+        "img": "http://db.irowiki.org/image/item/1815.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 59.56
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 43.45
+      },
+      {
+        "name": "hatii_card",
+        "img": "http://db.irowiki.org/image/item/4324.png",
+        "rate": 0.03
+      },
+      {
+        "name": "fang_of_hatii",
+        "img": "http://db.irowiki.org/image/item/7036.png",
+        "rate": 10
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 27
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 18.91
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lutie_field",
+        "number": 0,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_fild01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5499",
+    "monster_id": 1251,
+    "monster_info": "stormy_knight",
+    "size": "large",
+    "race": "formless",
+    "type": "wind",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1251.png",
+    "main_atb": {
+      "agi": 185,
+      "int": 55,
+      "luk": 79,
+      "vit": 83,
+      "dex": 130
+    },
+    "main_stats": {
+      "hp": "240,000",
+      "level": "77",
+      "def": "35 + 83 ~ 98",
+      "m_def": "60 + 96",
+      "attack": "1,425 ~ 1,585 (2)",
+      "magic_attack": "104 ~ 176",
+      "aspd": "176.6",
+      "move_speed": "200 ms",
+      "base_exp": "64,350",
+      "base_exp_per_hp": "0.268",
+      "job_exp": "21,450",
+      "job_exp_per_hp": "0.089",
+      "exp_ratio": "3.000 : 1",
+      "from_average": "-0.032 / -0.061",
+      "flee": "282",
+      "crit_shield": "15.8%",
+      "hit": "282",
+      "defense_rating": "1.18"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 75,
+      "earth": 200,
+      "shadow": 75,
+      "water": 0,
+      "undead": 25,
+      "fire": 100,
+      "holy": 75,
+      "wind": -50,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 1,
+          "name": "hallucination"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 5,
+          "name": "smite"
+        },
+        {
+          "level": 10,
+          "name": "storm_gust"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "wide_freeze"
+        },
+        {
+          "level": 5,
+          "name": "wind_attack"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            2,
+            "baby_hatii"
+          ]
+        ],
+        "summon_mob": [
+          [
+            6,
+            "santa_goblin_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "zephyrus",
+        "img": "http://db.irowiki.org/image/item/1468.png",
+        "rate": 2.17
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 44.93
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 60
+      },
+      {
+        "name": "ring",
+        "img": "http://db.irowiki.org/image/item/2621.png",
+        "rate": 2.93
+      },
+      {
+        "name": "manteau",
+        "img": "http://db.irowiki.org/image/item/2506.png",
+        "rate": 7.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 68.32
+      },
+      {
+        "name": "grand_circlet",
+        "img": "http://db.irowiki.org/image/item/5007.png",
+        "rate": 0.02
+      },
+      {
+        "name": "stormy_knight_card",
+        "img": "http://db.irowiki.org/image/item/4318.png",
+        "rate": 0.03
+      },
+      {
+        "name": "aquamarine",
+        "img": "http://db.irowiki.org/image/item/720.png",
+        "rate": 45
+      },
+      {
+        "name": "boots",
+        "img": "http://db.irowiki.org/image/item/2406.png",
+        "rate": 2.76
+      },
+      {
+        "name": "mystic_frozen",
+        "img": "http://db.irowiki.org/image/item/995.png",
+        "rate": 15.69
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "toy_factory",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_dun02.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5460",
+    "monster_id": 1159,
+    "monster_info": "phreeoni",
+    "size": "large",
+    "race": "brute",
+    "type": "neutral",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1159.png",
+    "main_atb": {
+      "agi": 85,
+      "int": 35,
+      "luk": 60,
+      "vit": 78,
+      "dex": 130
+    },
+    "main_stats": {
+      "hp": "188,000",
+      "level": "69",
+      "def": "10 + 78 ~ 86",
+      "m_def": "20 + 74",
+      "attack": "880 ~ 1,530 (1)",
+      "magic_attack": "60 ~ 84",
+      "aspd": "137.6",
+      "move_speed": "100 ms",
+      "base_exp": "32,175",
+      "base_exp_per_hp": "0.171",
+      "job_exp": "16,445",
+      "job_exp_per_hp": "0.087",
+      "exp_ratio": "1.957 : 1",
+      "from_average": "-0.129 / -0.063",
+      "flee": "274",
+      "crit_shield": "12%",
+      "hit": "174",
+      "defense_rating": "0.88"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 100,
+      "earth": 100,
+      "shadow": 100,
+      "water": 100,
+      "undead": 100,
+      "fire": 100,
+      "holy": 100,
+      "wind": 100,
+      "ghost": 0
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "break_helm"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 5,
+          "name": "heaven_s_drive"
+        },
+        {
+          "level": 1,
+          "name": "hiding"
+        },
+        {
+          "level": 5,
+          "name": "lick"
+        },
+        {
+          "level": 5,
+          "name": "petrify_attack"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "wide_stone_curse"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            10,
+            "hode"
+          ]
+        ],
+        "summon_mob": [
+          [
+            6,
+            "sandman_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "tongue",
+        "img": "http://db.irowiki.org/image/item/1015.png",
+        "rate": 100
+      },
+      {
+        "name": "fortune_sword",
+        "img": "http://db.irowiki.org/image/item/1223.png",
+        "rate": 7.45
+      },
+      {
+        "name": "sucsamad",
+        "img": "http://db.irowiki.org/image/item/1236.png",
+        "rate": 2.17
+      },
+      {
+        "name": "ant_jaw",
+        "img": "http://db.irowiki.org/image/item/1014.png",
+        "rate": 74.92
+      },
+      {
+        "name": "mr_scream",
+        "img": "http://db.irowiki.org/image/item/2288.png",
+        "rate": 4.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 43.45
+      },
+      {
+        "name": "weihna",
+        "img": "http://db.irowiki.org/image/item/13047.png",
+        "rate": 1.51
+      },
+      {
+        "name": "phreeoni_card",
+        "img": "http://db.irowiki.org/image/item/4121.png",
+        "rate": 0.03
+      },
+      {
+        "name": "necklace_of_oblivion",
+        "img": "http://db.irowiki.org/image/item/1008.png",
+        "rate": 5
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/730.png",
+        "rate": 9.51
+      },
+      {
+        "name": "star_crumb",
+        "img": "http://db.irowiki.org/image/item/1000.png",
+        "rate": 34.21
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "sograt_desert",
+        "number": 17,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild17.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5436",
+    "monster_id": 1115,
+    "monster_info": "eddga",
+    "size": "large",
+    "race": "brute",
+    "type": "fire",
+    "element_power": 1,
+    "gif": "http://db.irowiki.org/image/monster/1115.png",
+    "main_atb": {
+      "agi": 70,
+      "int": 66,
+      "luk": 85,
+      "vit": 85,
+      "dex": 90
+    },
+    "main_stats": {
+      "hp": "152,000",
+      "level": "65",
+      "def": "15 + 85 ~ 100",
+      "m_def": "15 + 108",
+      "attack": "1,215 ~ 1,565 (1)",
+      "magic_attack": "147 ~ 235",
+      "aspd": "132.8",
+      "move_speed": "300 ms",
+      "base_exp": "25,025",
+      "base_exp_per_hp": "0.165",
+      "job_exp": "12,870",
+      "job_exp_per_hp": "0.085",
+      "exp_ratio": "1.944 : 1",
+      "from_average": "-0.135 / -0.065",
+      "flee": "230",
+      "crit_shield": "17%",
+      "hit": "155",
+      "defense_rating": "1"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 125,
+      "earth": 50,
+      "shadow": 100,
+      "water": 150,
+      "undead": 100,
+      "fire": 25,
+      "holy": 100,
+      "wind": 100,
+      "ghost": 100
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "bleed"
+        },
+        {
+          "level": 5,
+          "name": "bomb"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 1,
+          "name": "endure"
+        },
+        {
+          "level": 10,
+          "name": "fire_ball"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "magnum_break"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            5,
+            "bigfoot"
+          ]
+        ],
+        "summon_mob": [
+          [
+            8,
+            "bigfoot_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "fireblend",
+        "img": "http://db.irowiki.org/image/item/1133.png",
+        "rate": 2.17
+      },
+      {
+        "name": "pipe",
+        "img": "http://db.irowiki.org/image/item/2268.png",
+        "rate": 3.73
+      },
+      {
+        "name": "honey",
+        "img": "http://db.irowiki.org/image/item/518.png",
+        "rate": 100
+      },
+      {
+        "name": "katar_of_raging_blaze",
+        "img": "http://db.irowiki.org/image/item/1258.png",
+        "rate": 7.45
+      },
+      {
+        "name": "tiger_s_footskin",
+        "img": "http://db.irowiki.org/image/item/1030.png",
+        "rate": 3.73
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 34.45
+      },
+      {
+        "name": "krieg",
+        "img": "http://db.irowiki.org/image/item/13046.png",
+        "rate": 1.51
+      },
+      {
+        "name": "eddga_card",
+        "img": "http://db.irowiki.org/image/item/4123.png",
+        "rate": 0.03
+      },
+      {
+        "name": "tiger_skin",
+        "img": "http://db.irowiki.org/image/item/1029.png",
+        "rate": 50
+      },
+      {
+        "name": "tiger_s_footskin",
+        "img": "http://db.irowiki.org/image/item/1030.png",
+        "rate": 5
+      },
+      {
+        "name": "flame_heart",
+        "img": "http://db.irowiki.org/image/item/994.png",
+        "rate": 13.51
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "payon_forest",
+        "number": 11,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/pay_fild11.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_8_hours",
+        "name": "guild_dungeon_baldur",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun01.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5433",
+    "monster_id": 1112,
+    "monster_info": "drake",
+    "size": "medium",
+    "race": "undead",
+    "type": "undead",
+    "element_power": 1,
+    "gif": "http://db.irowiki.org/image/monster/1112.png",
+    "main_atb": {
+      "agi": 80,
+      "int": 75,
+      "luk": 50,
+      "vit": 49,
+      "dex": 79
+    },
+    "main_stats": {
+      "hp": "326,666",
+      "level": "70",
+      "def": "20 + 49 ~ 52",
+      "m_def": "35 + 99",
+      "attack": "1,800 ~ 2,100 (1)",
+      "magic_attack": "175 ~ 300",
+      "aspd": "169",
+      "move_speed": "400 ms",
+      "base_exp": "28,600",
+      "base_exp_per_hp": "0.088",
+      "job_exp": "22,880",
+      "job_exp_per_hp": "0.07",
+      "exp_ratio": "1.250 : 1",
+      "from_average": "-0.212 / -0.08",
+      "flee": "224",
+      "crit_shield": "10%",
+      "hit": "170",
+      "defense_rating": "0.69"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": -25,
+      "earth": 100,
+      "shadow": -25,
+      "water": 100,
+      "undead": 0,
+      "fire": 125,
+      "holy": 150,
+      "wind": 100,
+      "ghost": 100
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_armor"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 1,
+          "name": "power_maximize"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_attack"
+        },
+        {
+          "level": 10,
+          "name": "water_ball"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            4,
+            "wraith"
+          ]
+        ],
+        "summon_mob": [
+          [
+            5,
+            "wraith_dead_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "saber",
+        "img": "http://db.irowiki.org/image/item/1127.png",
+        "rate": 8.93
+      },
+      {
+        "name": "ring_pommel_saber",
+        "img": "http://db.irowiki.org/image/item/1125.png",
+        "rate": 14.17
+      },
+      {
+        "name": "cutlus",
+        "img": "http://db.irowiki.org/image/item/1135.png",
+        "rate": 2.17
+      },
+      {
+        "name": "haedonggum",
+        "img": "http://db.irowiki.org/image/item/1128.png",
+        "rate": 6
+      },
+      {
+        "name": "corsair",
+        "img": "http://db.irowiki.org/image/item/5019.png",
+        "rate": 5.21
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 48
+      },
+      {
+        "name": "krasnaya",
+        "img": "http://db.irowiki.org/image/item/1189.png",
+        "rate": 1.51
+      },
+      {
+        "name": "drake_card",
+        "img": "http://db.irowiki.org/image/item/4137.png",
+        "rate": 0.03
+      },
+      {
+        "name": "white_potion",
+        "img": "http://db.irowiki.org/image/item/504.png",
+        "rate": 50
+      },
+      {
+        "name": "amethyst",
+        "img": "http://db.irowiki.org/image/item/719.png",
+        "rate": 2.51
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "sunken_ship",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/treasure02.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5457",
+    "monster_id": 1150,
+    "monster_info": "moonlight_flower",
+    "size": "medium",
+    "race": "demon",
+    "type": "fire",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1150.png",
+    "main_atb": {
+      "agi": 99,
+      "int": 82,
+      "luk": 120,
+      "vit": 55,
+      "dex": 95
+    },
+    "main_stats": {
+      "hp": "120,000",
+      "level": "67",
+      "def": "10 + 55 ~ 58",
+      "m_def": "55 + 109",
+      "attack": "1,200 ~ 1,700 (1)",
+      "magic_attack": "203 ~ 338",
+      "aspd": "136.2",
+      "move_speed": "150 ms",
+      "base_exp": "27,500",
+      "base_exp_per_hp": "0.229",
+      "job_exp": "14,300",
+      "job_exp_per_hp": "0.119",
+      "exp_ratio": "1.923 : 1",
+      "from_average": "-0.071 / -0.031",
+      "flee": "237",
+      "crit_shield": "24%",
+      "hit": "186",
+      "defense_rating": "0.65"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 100,
+      "earth": 0,
+      "shadow": 100,
+      "water": 200,
+      "undead": 50,
+      "fire": -25,
+      "holy": 100,
+      "wind": 100,
+      "ghost": 50
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "cold_bolt"
+        },
+        {
+          "level": 5,
+          "name": "dispell"
+        },
+        {
+          "level": 5,
+          "name": "fire_bolt"
+        },
+        {
+          "level": 5,
+          "name": "full_divestment"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "hammer_fall"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 5,
+          "name": "lightning_bolt"
+        },
+        {
+          "level": 1,
+          "name": "magnetic_earth"
+        },
+        {
+          "level": 10,
+          "name": "mammonite"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "wide_silence"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            3,
+            "nine_tail"
+          ]
+        ],
+        "summon_mob": [
+          [
+            5,
+            "nine_tail_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "spectral_spear",
+        "img": "http://db.irowiki.org/image/item/1477.png",
+        "rate": 7.45
+      },
+      {
+        "name": "moonlight_dagger",
+        "img": "http://db.irowiki.org/image/item/1234.png",
+        "rate": 1.45
+      },
+      {
+        "name": "long_mace",
+        "img": "http://db.irowiki.org/image/item/1525.png",
+        "rate": 2.17
+      },
+      {
+        "name": "punisher",
+        "img": "http://db.irowiki.org/image/item/10008.png",
+        "rate": 7.45
+      },
+      {
+        "name": "silver_knife_of_chastity",
+        "img": "http://db.irowiki.org/image/item/638.png",
+        "rate": 9.73
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 38.93
+      },
+      {
+        "name": "staff_of_bordeaux",
+        "img": "http://db.irowiki.org/image/item/1648.png",
+        "rate": 1.51
+      },
+      {
+        "name": "moonlight_flower_card",
+        "img": "http://db.irowiki.org/image/item/4131.png",
+        "rate": 0.03
+      },
+      {
+        "name": "nine_tails",
+        "img": "http://db.irowiki.org/image/item/1022.png",
+        "rate": 50
+      },
+      {
+        "name": "white_potion",
+        "img": "http://db.irowiki.org/image/item/504.png",
+        "rate": 7.51
+      },
+      {
+        "name": "topaz",
+        "img": "http://db.irowiki.org/image/item/728.png",
+        "rate": 2.13
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "payon_cave",
+        "number": 5,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/pay_dun04.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a541a",
+    "monster_id": 1087,
+    "monster_info": "orc_hero",
+    "size": "large",
+    "race": "demi_human",
+    "type": "earth",
+    "element_power": 2,
+    "gif": "http://db.irowiki.org/image/monster/1087.png",
+    "main_atb": {
+      "agi": 91,
+      "int": 70,
+      "luk": 90,
+      "vit": 30,
+      "dex": 105
+    },
+    "main_stats": {
+      "hp": "585,700",
+      "level": "77",
+      "def": "40 + 30",
+      "m_def": "45 + 85",
+      "attack": "2,257 ~ 2,542 (1)",
+      "magic_attack": "170 ~ 266",
+      "aspd": "116.1",
+      "move_speed": "150 ms",
+      "base_exp": "58,630",
+      "base_exp_per_hp": "0.1",
+      "job_exp": "32,890",
+      "job_exp_per_hp": "0.056",
+      "exp_ratio": "1.783 : 1",
+      "from_average": "-0.2 / -0.094",
+      "flee": "257",
+      "crit_shield": "18%",
+      "hit": "188",
+      "defense_rating": "0.7"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 125,
+      "earth": 50,
+      "shadow": 100,
+      "water": 100,
+      "undead": 75,
+      "fire": 175,
+      "holy": 100,
+      "wind": 25,
+      "ghost": 75
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "break_armor"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "clashing_spiral"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 5,
+          "name": "earth_attack"
+        },
+        {
+          "level": 10,
+          "name": "guard"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 10,
+          "name": "thunder_storm"
+        },
+        {
+          "level": 10,
+          "name": "twohand_quicken"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "high_orc_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "heroic_emblem",
+        "img": "http://db.irowiki.org/image/item/968.png",
+        "rate": 100
+      },
+      {
+        "name": "monkey_circlet",
+        "img": "http://db.irowiki.org/image/item/10018.png",
+        "rate": 7.45
+      },
+      {
+        "name": "light_epsilon",
+        "img": "http://db.irowiki.org/image/item/1366.png",
+        "rate": 2.17
+      },
+      {
+        "name": "shield",
+        "img": "http://db.irowiki.org/image/item/2106.png",
+        "rate": 3.73
+      },
+      {
+        "name": "orcish_sword",
+        "img": "http://db.irowiki.org/image/item/1124.png",
+        "rate": 14.93
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 68.32
+      },
+      {
+        "name": "giant_axe",
+        "img": "http://db.irowiki.org/image/item/1387.png",
+        "rate": 1.51
+      },
+      {
+        "name": "orc_hero_card",
+        "img": "http://db.irowiki.org/image/item/4143.png",
+        "rate": 0.03
+      },
+      {
+        "name": "sardonyx",
+        "img": "http://db.irowiki.org/image/item/725.png",
+        "rate": 20
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 12
+      },
+      {
+        "name": "steel",
+        "img": "http://db.irowiki.org/image/item/999.png",
+        "rate": 34
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_day",
+        "name": "geffen_field",
+        "number": 2,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/gef_fild02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "geffen_field",
+        "number": 14,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/gef_fild14.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a53f2",
+    "monster_id": 1046,
+    "monster_info": "doppelganger",
+    "size": "medium",
+    "race": "demon",
+    "type": "shadow",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1046.png",
+    "main_atb": {
+      "agi": 90,
+      "int": 35,
+      "luk": 65,
+      "vit": 30,
+      "dex": 125
+    },
+    "main_stats": {
+      "hp": "249,000",
+      "level": "72",
+      "def": "60 + 30",
+      "m_def": "35 + 50",
+      "attack": "1,340 ~ 1,590 (1)",
+      "magic_attack": "60 ~ 84",
+      "aspd": "176",
+      "move_speed": "100 ms",
+      "base_exp": "51,480",
+      "base_exp_per_hp": "0.207",
+      "job_exp": "10,725",
+      "job_exp_per_hp": "0.043",
+      "exp_ratio": "4.800 : 1",
+      "from_average": "-0.093 / -0.107",
+      "flee": "272",
+      "crit_shield": "13%",
+      "hit": "182",
+      "defense_rating": "0.9"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 0,
+      "earth": 50,
+      "shadow": -50,
+      "water": 50,
+      "undead": 0,
+      "fire": 50,
+      "holy": 175,
+      "wind": 50,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "break_armor"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "clashing_spiral"
+        },
+        {
+          "level": 1,
+          "name": "critical_slash"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 10,
+          "name": "guard"
+        },
+        {
+          "level": 10,
+          "name": "hammer_fall"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 10,
+          "name": "twohand_quicken"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            1,
+            "nightmare_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "full_plate",
+        "img": "http://db.irowiki.org/image/item/2317.png",
+        "rate": 3.73
+      },
+      {
+        "name": "broadsword",
+        "img": "http://db.irowiki.org/image/item/1162.png",
+        "rate": 3.25
+      },
+      {
+        "name": "zweihander",
+        "img": "http://db.irowiki.org/image/item/1168.png",
+        "rate": 2.17
+      },
+      {
+        "name": "spiky_band",
+        "img": "http://db.irowiki.org/image/item/2258.png",
+        "rate": 5.21
+      },
+      {
+        "name": "",
+        "img": "http://db.irowiki.org/image/item/1411.png",
+        "rate": 8.17
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 55.2
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 40.45
+      },
+      {
+        "name": "doppelganger_card",
+        "img": "http://db.irowiki.org/image/item/4142.png",
+        "rate": 0.03
+      },
+      {
+        "name": "cursed_ruby",
+        "img": "http://db.irowiki.org/image/item/724.png",
+        "rate": 15
+      },
+      {
+        "name": "blue_potion",
+        "img": "http://db.irowiki.org/image/item/505.png",
+        "rate": 51
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "geffen_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gef_dun02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_8_hours",
+        "name": "guild_dungeon_luina",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun02.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a53ec",
+    "monster_id": 1039,
+    "monster_info": "baphomet",
+    "size": "large",
+    "race": "demon",
+    "type": "shadow",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1039.png",
+    "main_atb": {
+      "agi": 152,
+      "int": 85,
+      "luk": 95,
+      "vit": 30,
+      "dex": 120
+    },
+    "main_stats": {
+      "hp": "668,000",
+      "level": "81",
+      "def": "35 + 30",
+      "m_def": "45 + 100",
+      "attack": "3,220 ~ 4,040 (2)",
+      "magic_attack": "229 ~ 374",
+      "aspd": "161.6",
+      "move_speed": "100 ms",
+      "base_exp": "107,250",
+      "base_exp_per_hp": "0.161",
+      "job_exp": "37,895",
+      "job_exp_per_hp": "0.057",
+      "exp_ratio": "2.830 : 1",
+      "from_average": "-0.139 / -0.093",
+      "flee": "276",
+      "crit_shield": "19%",
+      "hit": "253",
+      "defense_rating": "0.65"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 0,
+      "earth": 50,
+      "shadow": -50,
+      "water": 50,
+      "undead": 0,
+      "fire": 50,
+      "holy": 175,
+      "wind": 50,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "brandish_spear"
+        },
+        {
+          "level": 10,
+          "name": "break_armor"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "dark_breath"
+        },
+        {
+          "level": 10,
+          "name": "dark_strike"
+        },
+        {
+          "level": 5,
+          "name": "earthquake"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 5,
+          "name": "hell_s_judgment"
+        },
+        {
+          "level": 10,
+          "name": "lord_of_vermilion"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "snap"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            4,
+            "baphomet_jr"
+          ]
+        ],
+        "summon_mob": [
+          [
+            6,
+            "baphomet_jr_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "crescent_scythe",
+        "img": "http://db.irowiki.org/image/item/1466.png",
+        "rate": 6
+      },
+      {
+        "name": "magestic_goat",
+        "img": "http://db.irowiki.org/image/item/2256.png",
+        "rate": 4.45
+      },
+      {
+        "name": "crescent_scythe",
+        "img": "http://db.irowiki.org/image/item/1476.png",
+        "rate": 0.73
+      },
+      {
+        "name": "emperium",
+        "img": "http://db.irowiki.org/image/item/714.png",
+        "rate": 7.45
+      },
+      {
+        "name": "magestic_goat",
+        "img": "http://db.irowiki.org/image/item/5160.png",
+        "rate": 0.13
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 81.4
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 62.52
+      },
+      {
+        "name": "baphomet_card",
+        "img": "http://db.irowiki.org/image/item/4147.png",
+        "rate": 0.03
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 20
+      },
+      {
+        "name": "baphomet_doll",
+        "img": "http://db.irowiki.org/image/item/750.png",
+        "rate": 4
+      },
+      {
+        "name": "evil_horn",
+        "img": "http://db.irowiki.org/image/item/923.png",
+        "rate": 38
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "glast_heim_f",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gl_cas02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "labyrinth_forest",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/prt_maze03.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5454",
+    "monster_id": 1147,
+    "monster_info": "maya",
+    "size": "large",
+    "race": "insect",
+    "type": "earth",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1147.png",
+    "main_atb": {
+      "agi": 97,
+      "int": 95,
+      "luk": 105,
+      "vit": 76,
+      "dex": 82
+    },
+    "main_stats": {
+      "hp": "169,000",
+      "level": "81",
+      "def": "60 + 76 ~ 84",
+      "m_def": "25 + 133",
+      "attack": "1,800 ~ 2,070 (1)",
+      "magic_attack": "264 ~ 456",
+      "aspd": "150",
+      "move_speed": "100 ms",
+      "base_exp": "42,900",
+      "base_exp_per_hp": "0.254",
+      "job_exp": "17,875",
+      "job_exp_per_hp": "0.106",
+      "exp_ratio": "2.400 : 1",
+      "from_average": "-0.046 / -0.044",
+      "flee": "238",
+      "crit_shield": "21%",
+      "hit": "198",
+      "defense_rating": "1.36"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 75,
+      "earth": -25,
+      "shadow": 75,
+      "water": 100,
+      "undead": 25,
+      "fire": 200,
+      "holy": 75,
+      "wind": 0,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "brandish_spear"
+        },
+        {
+          "level": 10,
+          "name": "break_armor"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "guard"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 5,
+          "name": "heaven_s_drive"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "wide_silence"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            10,
+            "arclouze"
+          ]
+        ],
+        "summon_mob": [
+          [
+            5,
+            "arclouze_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "queen_s_hair_ornament",
+        "img": "http://db.irowiki.org/image/item/10006.png",
+        "rate": 7.45
+      },
+      {
+        "name": "safety_ring",
+        "img": "http://db.irowiki.org/image/item/2615.png",
+        "rate": 2.93
+      },
+      {
+        "name": "tiara",
+        "img": "http://db.irowiki.org/image/item/2234.png",
+        "rate": 2.93
+      },
+      {
+        "name": "armlet_of_obedience",
+        "img": "http://db.irowiki.org/image/item/639.png",
+        "rate": 7.45
+      },
+      {
+        "name": "mother_s_nightmare",
+        "img": "http://db.irowiki.org/image/item/7020.png",
+        "rate": 0.13
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 52.44
+      },
+      {
+        "name": "dea_staff",
+        "img": "http://db.irowiki.org/image/item/2005.png",
+        "rate": 1.51
+      },
+      {
+        "name": "maya_card",
+        "img": "http://db.irowiki.org/image/item/4146.png",
+        "rate": 0.03
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/730.png",
+        "rate": 20
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 24
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 11.21
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "ant_hell",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/anthell02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_8_hours",
+        "name": "guild_dungeon_valkyrie",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun03.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a53ff",
+    "monster_id": 1059,
+    "monster_info": "mistress",
+    "size": "small",
+    "race": "insect",
+    "type": "wind",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1059.png",
+    "main_atb": {
+      "agi": 165,
+      "int": 95,
+      "luk": 130,
+      "vit": 60,
+      "dex": 70
+    },
+    "main_stats": {
+      "hp": "212,000",
+      "level": "74",
+      "def": "40 + 60 ~ 68",
+      "m_def": "60 + 125",
+      "attack": "880 ~ 1,110 (1)",
+      "magic_attack": "264 ~ 456",
+      "aspd": "142.6",
+      "move_speed": "100 ms",
+      "base_exp": "39,325",
+      "base_exp_per_hp": "0.185",
+      "job_exp": "27,170",
+      "job_exp_per_hp": "0.128",
+      "exp_ratio": "1.447 : 1",
+      "from_average": "-0.115 / -0.022",
+      "flee": "219",
+      "crit_shield": "26%",
+      "hit": "259",
+      "defense_rating": "1"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 75,
+      "earth": 200,
+      "shadow": 75,
+      "water": 0,
+      "undead": 25,
+      "fire": 100,
+      "holy": 75,
+      "wind": -50,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "jupitel_thunder"
+        },
+        {
+          "level": 1,
+          "name": "pneuma"
+        },
+        {
+          "level": 5,
+          "name": "silence_attack"
+        },
+        {
+          "level": 1,
+          "name": "stop"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "wide_silence"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            4,
+            "petite_sky"
+          ]
+        ],
+        "summon_mob": [
+          [
+            5,
+            "giant_hornet_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "gungnir",
+        "img": "http://db.irowiki.org/image/item/1413.png",
+        "rate": 2.17
+      },
+      {
+        "name": "honey",
+        "img": "http://db.irowiki.org/image/item/518.png",
+        "rate": 100
+      },
+      {
+        "name": "coronet",
+        "img": "http://db.irowiki.org/image/item/2249.png",
+        "rate": 3.73
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 14.93
+      },
+      {
+        "name": "young_twig",
+        "img": "http://db.irowiki.org/image/item/7018.png",
+        "rate": 0.13
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 63.96
+      },
+      {
+        "name": "red_square_bag",
+        "img": "http://db.irowiki.org/image/item/16001.png",
+        "rate": 1.51
+      },
+      {
+        "name": "mistress_card",
+        "img": "http://db.irowiki.org/image/item/4132.png",
+        "rate": 0.03
+      },
+      {
+        "name": "rough_wind",
+        "img": "http://db.irowiki.org/image/item/996.png",
+        "rate": 15
+      },
+      {
+        "name": "royal_jelly",
+        "img": "http://db.irowiki.org/image/item/526.png",
+        "rate": 34
+      },
+      {
+        "name": "pearl",
+        "img": "http://db.irowiki.org/image/item/722.png",
+        "rate": 15.31
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "mt_mjolnir",
+        "number": 4,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/mjolnir_04.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a53eb",
+    "monster_id": 1038,
+    "monster_info": "osiris",
+    "size": "medium",
+    "race": "undead",
+    "type": "undead",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1038.png",
+    "main_atb": {
+      "agi": 75,
+      "int": 37,
+      "luk": 40,
+      "vit": 30,
+      "dex": 86
+    },
+    "main_stats": {
+      "hp": "415,400",
+      "level": "78",
+      "def": "10 + 30",
+      "m_def": "25 + 52",
+      "attack": "780 ~ 2,880 (1)",
+      "magic_attack": "62 ~ 86",
+      "aspd": "146.4",
+      "move_speed": "100 ms",
+      "base_exp": "71,500",
+      "base_exp_per_hp": "0.172",
+      "job_exp": "28,600",
+      "job_exp_per_hp": "0.069",
+      "exp_ratio": "2.500 : 1",
+      "from_average": "-0.128 / -0.081",
+      "flee": "239",
+      "crit_shield": "8%",
+      "hit": "173",
+      "defense_rating": "0.4"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": -100,
+      "earth": 50,
+      "shadow": -100,
+      "water": 150,
+      "undead": 0,
+      "fire": 200,
+      "holy": 200,
+      "wind": 100,
+      "ghost": 175
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "bash"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "curse_attack"
+        },
+        {
+          "level": 5,
+          "name": "dark_breath"
+        },
+        {
+          "level": 10,
+          "name": "dark_thunder"
+        },
+        {
+          "level": 10,
+          "name": "meteor_assault"
+        },
+        {
+          "level": 5,
+          "name": "poison_attack"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 5,
+          "name": "quagmire"
+        },
+        {
+          "level": 10,
+          "name": "stone_curse"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "venom_dust"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            7,
+            "isis"
+          ]
+        ],
+        "summon_mob": [
+          [
+            5,
+            "ancient_mummy_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 30
+      },
+      {
+        "name": "assassin_dagger",
+        "img": "http://db.irowiki.org/image/item/1232.png",
+        "rate": 2.17
+      },
+      {
+        "name": "crown",
+        "img": "http://db.irowiki.org/image/item/2235.png",
+        "rate": 2.93
+      },
+      {
+        "name": "jamadhar",
+        "img": "http://db.irowiki.org/image/item/1255.png",
+        "rate": 8.93
+      },
+      {
+        "name": "hand_of_god",
+        "img": "http://db.irowiki.org/image/item/1009.png",
+        "rate": 14.93
+      },
+      {
+        "name": "sphinx_hat",
+        "img": "http://db.irowiki.org/image/item/5053.png",
+        "rate": 2.17
+      },
+      {
+        "name": "chakram",
+        "img": "http://db.irowiki.org/image/item/1285.png",
+        "rate": 1.51
+      },
+      {
+        "name": "osiris_card",
+        "img": "http://db.irowiki.org/image/item/4144.png",
+        "rate": 0.03
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 40
+      },
+      {
+        "name": "yggdrasil_seed",
+        "img": "http://db.irowiki.org/image/item/608.png",
+        "rate": 18
+      },
+      {
+        "name": "osiris_doll",
+        "img": "http://db.irowiki.org/image/item/751.png",
+        "rate": 2.11
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "pyramid_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_pryd04.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a54ae",
+    "monster_id": 1272,
+    "monster_info": "dark_lord",
+    "size": "large",
+    "race": "demon",
+    "type": "undead",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1272.png",
+    "main_atb": {
+      "agi": 120,
+      "int": 118,
+      "luk": 60,
+      "vit": 30,
+      "dex": 99
+    },
+    "main_stats": {
+      "hp": "720,000",
+      "level": "80",
+      "def": "30 + 30",
+      "m_def": "70 + 133",
+      "attack": "2,800 ~ 3,320 (2)",
+      "magic_attack": "374 ~ 647",
+      "aspd": "156.6",
+      "move_speed": "100 ms",
+      "base_exp": "65,780",
+      "base_exp_per_hp": "0.091",
+      "job_exp": "45,045",
+      "job_exp_per_hp": "0.063",
+      "exp_ratio": "1.460 : 1",
+      "from_average": "-0.209 / -0.087",
+      "flee": "254",
+      "crit_shield": "12%",
+      "hit": "220",
+      "defense_rating": "0.6"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": -100,
+      "earth": 50,
+      "shadow": -100,
+      "water": 150,
+      "undead": 0,
+      "fire": 200,
+      "holy": 200,
+      "wind": 100,
+      "ghost": 175
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_helm"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 1,
+          "name": "dark_blessing"
+        },
+        {
+          "level": 10,
+          "name": "fire_wall"
+        },
+        {
+          "level": 5,
+          "name": "hell_s_judgment"
+        },
+        {
+          "level": 10,
+          "name": "meteor_storm"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            3,
+            "dark_illusion_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "evil_bone_wand",
+        "img": "http://db.irowiki.org/image/item/1615.png",
+        "rate": 12
+      },
+      {
+        "name": "kronos",
+        "img": "http://db.irowiki.org/image/item/2004.png",
+        "rate": 0
+      },
+      {
+        "name": "grimtooth",
+        "img": "http://db.irowiki.org/image/item/1237.png",
+        "rate": 4.45
+      },
+      {
+        "name": "mage_coat",
+        "img": "http://db.irowiki.org/image/item/2334.png",
+        "rate": 4.45
+      },
+      {
+        "name": "ancient_cape",
+        "img": "http://db.irowiki.org/image/item/2507.png",
+        "rate": 0
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 77.04
+      },
+      {
+        "name": "bone_helm",
+        "img": "http://db.irowiki.org/image/item/5162.png",
+        "rate": 0.13
+      },
+      {
+        "name": "dark_lord_card",
+        "img": "http://db.irowiki.org/image/item/4168.png",
+        "rate": 0.03
+      },
+      {
+        "name": "skull",
+        "img": "http://db.irowiki.org/image/item/7005.png",
+        "rate": 60
+      },
+      {
+        "name": "coif",
+        "img": "http://db.irowiki.org/image/item/5093.png",
+        "rate": 2
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 7.61
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "glast_heim_churchyard",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gl_chyard.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_8_hours",
+        "name": "guild_dungeon_britoniah",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun04.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a545e",
+    "monster_id": 1157,
+    "monster_info": "pharaoh",
+    "size": "large",
+    "race": "demi_human",
+    "type": "shadow",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1157.png",
+    "main_atb": {
+      "agi": 93,
+      "int": 104,
+      "luk": 112,
+      "vit": 100,
+      "dex": 89
+    },
+    "main_stats": {
+      "hp": "445,997",
+      "level": "93",
+      "def": "67 + 100 ~ 124",
+      "m_def": "70 + 154",
+      "attack": "2,267 ~ 3,015 (1)",
+      "magic_attack": "300 ~ 504",
+      "aspd": "156.6",
+      "move_speed": "125 ms",
+      "base_exp": "114,990",
+      "base_exp_per_hp": "0.258",
+      "job_exp": "41,899",
+      "job_exp_per_hp": "0.094",
+      "exp_ratio": "2.744 : 1",
+      "from_average": "-0.042 / -0.056",
+      "flee": "257",
+      "crit_shield": "22.4%",
+      "hit": "206",
+      "defense_rating": "1.67"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 0,
+      "earth": 50,
+      "shadow": -50,
+      "water": 50,
+      "undead": 0,
+      "fire": 50,
+      "holy": 175,
+      "wind": 50,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 1,
+          "name": "arrow_repel"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 1,
+          "name": "dark_blessing"
+        },
+        {
+          "level": 10,
+          "name": "dark_strike"
+        },
+        {
+          "level": 1,
+          "name": "energy_drain"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 9,
+          "name": "thunder_storm"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            3,
+            "marduk_ghost"
+          ],
+          [
+            3,
+            "pasana_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "broken_pharaoh_emblem",
+        "img": "http://db.irowiki.org/image/item/7113.png",
+        "rate": 87.24
+      },
+      {
+        "name": "masque_of_tutankhamen",
+        "img": "http://db.irowiki.org/image/item/7114.png",
+        "rate": 37.45
+      },
+      {
+        "name": "solar_sword",
+        "img": "http://db.irowiki.org/image/item/1136.png",
+        "rate": 1.45
+      },
+      {
+        "name": "holy_robe",
+        "img": "http://db.irowiki.org/image/item/2327.png",
+        "rate": 2.17
+      },
+      {
+        "name": "jewel_crown",
+        "img": "http://db.irowiki.org/image/item/5002.png",
+        "rate": 7.45
+      },
+      {
+        "name": "tablet",
+        "img": "http://db.irowiki.org/image/item/1552.png",
+        "rate": 4.45
+      },
+      {
+        "name": "bazerald",
+        "img": "http://db.irowiki.org/image/item/1231.png",
+        "rate": 1.21
+      },
+      {
+        "name": "pharaoh_card",
+        "img": "http://db.irowiki.org/image/item/4148.png",
+        "rate": 0.03
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 55
+      },
+      {
+        "name": "royal_jelly",
+        "img": "http://db.irowiki.org/image/item/526.png",
+        "rate": 22.51
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 11.26
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "sphinx",
+        "number": 5,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/in_sphinx5.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a550e",
+    "monster_id": 1418,
+    "monster_info": "evil_snake_lord",
+    "size": "large",
+    "race": "brute",
+    "type": "ghost",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1418.png",
+    "main_atb": {
+      "agi": 83,
+      "int": 80,
+      "luk": 88,
+      "vit": 30,
+      "dex": 164
+    },
+    "main_stats": {
+      "hp": "254,993",
+      "level": "73",
+      "def": "25 + 30",
+      "m_def": "55 + 95",
+      "attack": "2,433 ~ 4,210 (3)",
+      "magic_attack": "201 ~ 336",
+      "aspd": "159.2",
+      "move_speed": "200 ms",
+      "base_exp": "34,288",
+      "base_exp_per_hp": "0.134",
+      "job_exp": "17,950",
+      "job_exp_per_hp": "0.07",
+      "exp_ratio": "1.910 : 1",
+      "from_average": "-0.166 / -0.08",
+      "flee": "312",
+      "crit_shield": "17.6%",
+      "hit": "176",
+      "defense_rating": "0.55"
+    },
+    "elementalDamage": {
+      "neutral": 0,
+      "poison": 50,
+      "earth": 100,
+      "shadow": 100,
+      "water": 100,
+      "undead": 100,
+      "fire": 100,
+      "holy": 100,
+      "wind": 100,
+      "ghost": 175
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "break_shield"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "dark_breath"
+        },
+        {
+          "level": 5,
+          "name": "dragon_fear"
+        },
+        {
+          "level": 10,
+          "name": "frost_diver"
+        },
+        {
+          "level": 10,
+          "name": "magnum_break"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 1,
+          "name": "stop"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "wide_silence"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            4,
+            "taoist_hermit_ghost"
+          ],
+          [
+            1,
+            "evil_nymph_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "ba_gua",
+        "img": "http://db.irowiki.org/image/item/7169.png",
+        "rate": 87.24
+      },
+      {
+        "name": "grave_keeper_s_sword",
+        "img": "http://db.irowiki.org/image/item/10020.png",
+        "rate": 76.44
+      },
+      {
+        "name": "hellfire",
+        "img": "http://db.irowiki.org/image/item/1471.png",
+        "rate": 1.21
+      },
+      {
+        "name": "ph_d_hat",
+        "img": "http://db.irowiki.org/image/item/5012.png",
+        "rate": 1.21
+      },
+      {
+        "name": "gae_bolg",
+        "img": "http://db.irowiki.org/image/item/1474.png",
+        "rate": 7.45
+      },
+      {
+        "name": "pellet",
+        "img": "http://db.irowiki.org/image/item/7226.png",
+        "rate": 13.45
+      },
+      {
+        "name": "soft_apron",
+        "img": "http://db.irowiki.org/image/item/661.png",
+        "rate": 30
+      },
+      {
+        "name": "evil_snake_lord_card",
+        "img": "http://db.irowiki.org/image/item/4330.png",
+        "rate": 0.03
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 55
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 22.51
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 12.39
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour_34_min_10_sec",
+        "name": "kunlun_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gon_dun03.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5476",
+    "monster_id": 1190,
+    "monster_info": "orc_lord",
+    "size": "large",
+    "race": "demi_human",
+    "type": "earth",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1190.png",
+    "main_atb": {
+      "agi": 82,
+      "int": 70,
+      "luk": 85,
+      "vit": 30,
+      "dex": 110
+    },
+    "main_stats": {
+      "hp": "783,000",
+      "level": "74",
+      "def": "40 + 30",
+      "m_def": "5 + 85",
+      "attack": "3,700 ~ 4,150 (1)",
+      "magic_attack": "170 ~ 266",
+      "aspd": "149",
+      "move_speed": "200 ms",
+      "base_exp": "62,205",
+      "base_exp_per_hp": "0.079",
+      "job_exp": "8,580",
+      "job_exp_per_hp": "0.011",
+      "exp_ratio": "7.250 : 1",
+      "from_average": "-0.221 / -0.139",
+      "flee": "259",
+      "crit_shield": "17%",
+      "hit": "176",
+      "defense_rating": "0.7"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 75,
+      "earth": -25,
+      "shadow": 75,
+      "water": 100,
+      "undead": 25,
+      "fire": 200,
+      "holy": 75,
+      "wind": 0,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 10,
+          "name": "break_shield"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "cold_bolt"
+        },
+        {
+          "level": 5,
+          "name": "earth_attack"
+        },
+        {
+          "level": 5,
+          "name": "earthquake"
+        },
+        {
+          "level": 10,
+          "name": "fire_bolt"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "increase_agi"
+        },
+        {
+          "level": 10,
+          "name": "lex_divina"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 10,
+          "name": "provoke"
+        },
+        {
+          "level": 5,
+          "name": "smite"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            5,
+            "orc_archer"
+          ]
+        ],
+        "summon_mob": [
+          [
+            6,
+            "orc_archer_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "bloody_axe",
+        "img": "http://db.irowiki.org/image/item/1363.png",
+        "rate": 6
+      },
+      {
+        "name": "ring",
+        "img": "http://db.irowiki.org/image/item/2621.png",
+        "rate": 6
+      },
+      {
+        "name": "grand_circlet",
+        "img": "http://db.irowiki.org/image/item/5007.png",
+        "rate": 6
+      },
+      {
+        "name": "doom_slayer",
+        "img": "http://db.irowiki.org/image/item/1371.png",
+        "rate": 6
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 14.93
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 63.96
+      },
+      {
+        "name": "erde",
+        "img": "http://db.irowiki.org/image/item/16000.png",
+        "rate": 6
+      },
+      {
+        "name": "orc_lord_card",
+        "img": "http://db.irowiki.org/image/item/4135.png",
+        "rate": 0.03
+      },
+      {
+        "name": "heroic_emblem",
+        "img": "http://db.irowiki.org/image/item/968.png",
+        "rate": 55
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 9
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "geffen_field",
+        "number": 10,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/gef_fild10.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a54d5",
+    "monster_id": 1312,
+    "monster_info": "turtle_general",
+    "size": "large",
+    "race": "brute",
+    "type": "earth",
+    "element_power": 2,
+    "gif": "http://db.irowiki.org/image/monster/1312.png",
+    "main_atb": {
+      "agi": 45,
+      "int": 65,
+      "luk": 164,
+      "vit": 55,
+      "dex": 105
+    },
+    "main_stats": {
+      "hp": "320,700",
+      "level": "97",
+      "def": "50 + 55 ~ 58",
+      "m_def": "54 + 92",
+      "attack": "2,438 ~ 3,478 (2)",
+      "magic_attack": "146 ~ 234",
+      "aspd": "150",
+      "move_speed": "200 ms",
+      "base_exp": "18,202",
+      "base_exp_per_hp": "0.057",
+      "job_exp": "9,800",
+      "job_exp_per_hp": "0.031",
+      "exp_ratio": "1.857 : 1",
+      "from_average": "-0.243 / -0.119",
+      "flee": "277",
+      "crit_shield": "32.8%",
+      "hit": "162",
+      "defense_rating": "1.05"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 125,
+      "earth": 50,
+      "shadow": 100,
+      "water": 100,
+      "undead": 75,
+      "fire": 175,
+      "holy": 100,
+      "wind": 25,
+      "ghost": 75
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "break_weapon"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 5,
+          "name": "earth_attack"
+        },
+        {
+          "level": 1,
+          "name": "endure"
+        },
+        {
+          "level": 5,
+          "name": "power_maximize"
+        },
+        {
+          "level": 10,
+          "name": "sonic_blow"
+        },
+        {
+          "level": 5,
+          "name": "stun_attack"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 5,
+          "name": "water_ball"
+        },
+        {
+          "level": 10,
+          "name": "water_ball"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            2,
+            "assaulter_ghost"
+          ],
+          [
+            2,
+            "solider_ghost"
+          ],
+          [
+            1,
+            "heater_ghost"
+          ],
+          [
+            1,
+            "permeter_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "iron_driver",
+        "img": "http://db.irowiki.org/image/item/1529.png",
+        "rate": 0.05
+      },
+      {
+        "name": "war_axe",
+        "img": "http://db.irowiki.org/image/item/1306.png",
+        "rate": 0.02
+      },
+      {
+        "name": "level_cookbook",
+        "img": "http://db.irowiki.org/image/item/7480.png",
+        "rate": 2.93
+      },
+      {
+        "name": "poll_axe",
+        "img": "http://db.irowiki.org/image/item/1417.png",
+        "rate": 0.05
+      },
+      {
+        "name": "broken_shell",
+        "img": "http://db.irowiki.org/image/item/7070.png",
+        "rate": 79.96
+      },
+      {
+        "name": "immaterial_sword",
+        "img": "http://db.irowiki.org/image/item/1141.png",
+        "rate": 1.21
+      },
+      {
+        "name": "union_of_tribe",
+        "img": "http://db.irowiki.org/image/item/658.png",
+        "rate": 0.02
+      },
+      {
+        "name": "turtle_general_card",
+        "img": "http://db.irowiki.org/image/item/4305.png",
+        "rate": 0.03
+      },
+      {
+        "name": "turtle_shell",
+        "img": "http://db.irowiki.org/image/item/967.png",
+        "rate": 55
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 6.76
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 7.66
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "turtle_island",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tur_dun04.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a5419",
+    "monster_id": 1086,
+    "monster_info": "golden_thief_bug",
+    "size": "large",
+    "race": "insect",
+    "type": "fire",
+    "element_power": 2,
+    "gif": "http://db.irowiki.org/image/monster/1086.png",
+    "main_atb": {
+      "agi": 75,
+      "int": 45,
+      "luk": 150,
+      "vit": 35,
+      "dex": 85
+    },
+    "main_stats": {
+      "hp": "126,000",
+      "level": "64",
+      "def": "60 + 35",
+      "m_def": "45 + 62",
+      "attack": "870 ~ 1,145 (1)",
+      "magic_attack": "81 ~ 126",
+      "aspd": "161.6",
+      "move_speed": "100 ms",
+      "base_exp": "14,300",
+      "base_exp_per_hp": "0.113",
+      "job_exp": "7,150",
+      "job_exp_per_hp": "0.057",
+      "exp_ratio": "2.000 : 1",
+      "from_average": "-0.187 / -0.093",
+      "flee": "224",
+      "crit_shield": "30%",
+      "hit": "159",
+      "defense_rating": "0.95"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 125,
+      "earth": 25,
+      "shadow": 100,
+      "water": 175,
+      "undead": 75,
+      "fire": 0,
+      "holy": 100,
+      "wind": 100,
+      "ghost": 75
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "passive",
+        "looter",
+        "changes_target_if_attacked"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "assumptio"
+        },
+        {
+          "level": 10,
+          "name": "fire_ball"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 1,
+          "name": "hiding"
+        },
+        {
+          "level": 10,
+          "name": "magnum_break"
+        },
+        {
+          "level": 10,
+          "name": "mammonite"
+        },
+        {
+          "level": 10,
+          "name": "shield_reflect"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        }
+      ],
+      "summon": {
+        "spawn_mob": [
+          [
+            10,
+            "male_thief_bug"
+          ]
+        ],
+        "summon_mob": [
+          [
+            10,
+            "male_thief_bug_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "gold",
+        "img": "http://db.irowiki.org/image/item/969.png",
+        "rate": 14.93
+      },
+      {
+        "name": "golden_mace",
+        "img": "http://db.irowiki.org/image/item/1524.png",
+        "rate": 2.17
+      },
+      {
+        "name": "golden_gear",
+        "img": "http://db.irowiki.org/image/item/2246.png",
+        "rate": 3.73
+      },
+      {
+        "name": "golden_bell",
+        "img": "http://db.irowiki.org/image/item/10016.png",
+        "rate": 7.45
+      },
+      {
+        "name": "emperium",
+        "img": "http://db.irowiki.org/image/item/714.png",
+        "rate": 4.45
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 30
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 22.45
+      },
+      {
+        "name": "golden_thiefbug_card",
+        "img": "http://db.irowiki.org/image/item/4128.png",
+        "rate": 0.03
+      },
+      {
+        "name": "gold_ring",
+        "img": "http://db.irowiki.org/image/item/2610.png",
+        "rate": 20
+      },
+      {
+        "name": "ora_ora",
+        "img": "http://db.irowiki.org/image/item/701.png",
+        "rate": 8
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "prontera_culvert",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/prt_sewb4.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a552f",
+    "monster_id": 1511,
+    "monster_info": "amon_ra",
+    "size": "large",
+    "race": "demi_human",
+    "type": "earth",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1511.png",
+    "main_atb": {
+      "agi": 1,
+      "int": 124,
+      "luk": 45,
+      "vit": 90,
+      "dex": 74
+    },
+    "main_stats": {
+      "hp": "1,214,138",
+      "level": "88",
+      "def": "26 + 90 ~ 105",
+      "m_def": "52 + 169",
+      "attack": "1,647 ~ 2,576 (3)",
+      "magic_attack": "413 ~ 700",
+      "aspd": "99.2",
+      "move_speed": "170 ms",
+      "base_exp": "87,264",
+      "base_exp_per_hp": "0.072",
+      "job_exp": "35,891",
+      "job_exp_per_hp": "0.03",
+      "exp_ratio": "2.431 : 1",
+      "from_average": "-0.228 / -0.12",
+      "flee": "237",
+      "crit_shield": "9%",
+      "hit": "109",
+      "defense_rating": "1.16"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 100,
+      "earth": 0,
+      "shadow": 100,
+      "water": 100,
+      "undead": 50,
+      "fire": 200,
+      "holy": 100,
+      "wind": 0,
+      "ghost": 50
+    },
+    "skills": {
+      "mode": [
+        "immobile",
+        "boss",
+        "mvp",
+        "aggressive"
+      ],
+      "spell": [
+        {
+          "level": 1,
+          "name": "blood_drain"
+        },
+        {
+          "level": 1,
+          "name": "dark_blessing"
+        },
+        {
+          "level": 10,
+          "name": "fire_pillar"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "meteor_storm"
+        },
+        {
+          "level": 1,
+          "name": "summon_monster"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            2,
+            "arclouze_ghost"
+          ],
+          [
+            2,
+            "mimic_ghost"
+          ],
+          [
+            1,
+            "khalitzburg_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "sphinx_hat",
+        "img": "http://db.irowiki.org/image/item/5053.png",
+        "rate": 2.17
+      },
+      {
+        "name": "safety_ring",
+        "img": "http://db.irowiki.org/image/item/2615.png",
+        "rate": 0.73
+      },
+      {
+        "name": "fragment_of_rossata_stone",
+        "img": "http://db.irowiki.org/image/item/7211.png",
+        "rate": 100
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 58.12
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 6
+      },
+      {
+        "name": "tablet",
+        "img": "http://db.irowiki.org/image/item/1552.png",
+        "rate": 0.13
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 44.93
+      },
+      {
+        "name": "amon_ra_card",
+        "img": "http://db.irowiki.org/image/item/4236.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "pyramid_bf",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_pryd06.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a551e",
+    "monster_id": 1492,
+    "monster_info": "samurai_specter",
+    "size": "large",
+    "race": "demi_human",
+    "type": "shadow",
+    "element_power": 3,
+    "gif": "http://db.irowiki.org/image/monster/1492.png",
+    "main_atb": {
+      "agi": 85,
+      "int": 85,
+      "luk": 60,
+      "vit": 30,
+      "dex": 150
+    },
+    "main_stats": {
+      "hp": "218,652",
+      "level": "71",
+      "def": "10 + 30",
+      "m_def": "51 + 100",
+      "attack": "2,219 ~ 3,169 (3)",
+      "magic_attack": "229 ~ 374",
+      "aspd": "132.8",
+      "move_speed": "135 ms",
+      "base_exp": "33,095",
+      "base_exp_per_hp": "0.151",
+      "job_exp": "18,214",
+      "job_exp_per_hp": "0.083",
+      "exp_ratio": "1.817 : 1",
+      "from_average": "-0.149 / -0.067",
+      "flee": "296",
+      "crit_shield": "12%",
+      "hit": "176",
+      "defense_rating": "0.4"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": 0,
+      "earth": 50,
+      "shadow": -50,
+      "water": 50,
+      "undead": 0,
+      "fire": 50,
+      "holy": 175,
+      "wind": 50,
+      "ghost": 25
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 10,
+          "name": "brandish_spear"
+        },
+        {
+          "level": 10,
+          "name": "break_armor"
+        },
+        {
+          "level": 10,
+          "name": "break_helm"
+        },
+        {
+          "level": 10,
+          "name": "break_shield"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 1,
+          "name": "critical_slash"
+        },
+        {
+          "level": 5,
+          "name": "guided_attack"
+        },
+        {
+          "level": 10,
+          "name": "heal"
+        },
+        {
+          "level": 10,
+          "name": "hell_s_judgment"
+        },
+        {
+          "level": 5,
+          "name": "power_up"
+        },
+        {
+          "level": 10,
+          "name": "snatch"
+        },
+        {
+          "level": 10,
+          "name": "soul_destroyer"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        },
+        {
+          "level": 10,
+          "name": "twohand_quicken"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            5,
+            "shinobi_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "masamune",
+        "img": "http://db.irowiki.org/image/item/1165.png",
+        "rate": 0.02
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 52.44
+      },
+      {
+        "name": "assassin_mask",
+        "img": "http://db.irowiki.org/image/item/5096.png",
+        "rate": 7.45
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 67.44
+      },
+      {
+        "name": "steel",
+        "img": "http://db.irowiki.org/image/item/999.png",
+        "rate": 94.56
+      },
+      {
+        "name": "huuma_blaze_shuriken",
+        "img": "http://db.irowiki.org/image/item/13303.png",
+        "rate": 100
+      },
+      {
+        "name": "azoth",
+        "img": "http://db.irowiki.org/image/item/1235.png",
+        "rate": 1.21
+      },
+      {
+        "name": "samurai_spector_card",
+        "img": "http://db.irowiki.org/image/item/4263.png",
+        "rate": 0.03
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 55
+      },
+      {
+        "name": "yggdrasil_seed",
+        "img": "http://db.irowiki.org/image/item/608.png",
+        "rate": 15.76
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 16.1
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour_31_min",
+        "name": "amatsu_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/ama_dun03.png"
+      }
+    ]
+  },
+  {
+    "_id": "60da8a7fcad5cc4e6e1a54fa",
+    "monster_id": 1389,
+    "monster_info": "dracula",
+    "size": "large",
+    "race": "demon",
+    "type": "shadow",
+    "element_power": 4,
+    "gif": "http://db.irowiki.org/image/monster/1389.png",
+    "main_atb": {
+      "agi": 95,
+      "int": 87,
+      "luk": 100,
+      "vit": 90,
+      "dex": 85
+    },
+    "main_stats": {
+      "hp": "320,096",
+      "level": "85",
+      "def": "45 + 90 ~ 105",
+      "m_def": "76 + 132",
+      "attack": "1,625 ~ 1,890 (3)",
+      "magic_attack": "231 ~ 376",
+      "aspd": "135.5",
+      "move_speed": "145 ms",
+      "base_exp": "120,157",
+      "base_exp_per_hp": "0.375",
+      "job_exp": "38,870",
+      "job_exp_per_hp": "0.121",
+      "exp_ratio": "3.091 : 1",
+      "from_average": "+0.075 / -0.029",
+      "flee": "245",
+      "crit_shield": "20%",
+      "hit": "200",
+      "defense_rating": "1.35"
+    },
+    "elementalDamage": {
+      "neutral": 100,
+      "poison": -25,
+      "earth": 25,
+      "shadow": -100,
+      "water": 25,
+      "undead": 0,
+      "fire": 25,
+      "holy": 200,
+      "wind": 25,
+      "ghost": 0
+    },
+    "skills": {
+      "mode": [
+        "boss",
+        "mvp",
+        "aggressive",
+        "changes_target_easily"
+      ],
+      "spell": [
+        {
+          "level": 5,
+          "name": "agility_up"
+        },
+        {
+          "level": 1,
+          "name": "blood_drain"
+        },
+        {
+          "level": 1,
+          "name": "call_slave"
+        },
+        {
+          "level": 10,
+          "name": "decrease_agi"
+        },
+        {
+          "level": 1,
+          "name": "energy_drain"
+        },
+        {
+          "level": 5,
+          "name": "grimtooth"
+        },
+        {
+          "level": 10,
+          "name": "hell_s_judgment"
+        },
+        {
+          "level": 1,
+          "name": "invisible"
+        },
+        {
+          "level": 1,
+          "name": "property_change_undead"
+        },
+        {
+          "level": 5,
+          "name": "silence_attack"
+        },
+        {
+          "level": 1,
+          "name": "snap"
+        },
+        {
+          "level": 1,
+          "name": "summon_slave"
+        },
+        {
+          "level": 1,
+          "name": "teleport"
+        }
+      ],
+      "summon": {
+        "summon_mob": [
+          [
+            16,
+            "familiar_ghost"
+          ]
+        ]
+      }
+    },
+    "drops": [
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 70.44
+      },
+      {
+        "name": "wizardry_staff",
+        "img": "http://db.irowiki.org/image/item/1473.png",
+        "rate": 0.02
+      },
+      {
+        "name": "ballista",
+        "img": "http://db.irowiki.org/image/item/1722.png",
+        "rate": 0.02
+      },
+      {
+        "name": "ancient_cape",
+        "img": "http://db.irowiki.org/image/item/2507.png",
+        "rate": 0.17
+      },
+      {
+        "name": "ring",
+        "img": "http://db.irowiki.org/image/item/2621.png",
+        "rate": 0.02
+      },
+      {
+        "name": "book_of_the_apocalypse",
+        "img": "http://db.irowiki.org/image/item/1557.png",
+        "rate": 0.02
+      },
+      {
+        "name": "dracula_card",
+        "img": "http://db.irowiki.org/image/item/4134.png",
+        "rate": 0.03
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 55
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 22.51
+      },
+      {
+        "name": "mastela_fruit",
+        "img": "http://db.irowiki.org/image/item/522.png",
+        "rate": 11.26
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "geffen_dungeon",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gef_dun01.png"
+      }
+    ]
+  }
+]
