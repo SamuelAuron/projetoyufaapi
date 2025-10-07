@@ -6,7 +6,11 @@ async function scrapePage(page) {
   console.log(`🕷️ Lendo página ${page}...`);
 
   try {
-    const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'], });
+    
+    const browser = await puppeteer.launch({
+  headless: true,
+  args: ["--no-sandbox", "--disable-setuid-sandbox"],
+});
     const pageRank = await browser.newPage();
     await pageRank.goto(`https://projetoyufa.com/rankings/mvp`, {
     waitUntil: "networkidle2",
