@@ -1,6 +1,6 @@
 import * as cheerio from "cheerio";
 import { writeFileSync } from "fs";
-import puppeteer from "puppeteer-core";
+import puppeteer from "puppeteer";
 
 async function scrapePage(page) {
   console.log(`🕷️ Lendo página ${page}...`);
