@@ -1,9 +1,8 @@
 import express from "express";
 import cors from "cors";
 import fs from "fs";
-import { checkMvpChanges } from "./watchMVPS.js";
+import { checkMvpChanges } from "./watchMvps.js";
 import { runCrawler } from "./botmvp2.js";
-
 
 const app = express();
 const PORT = 3000;
