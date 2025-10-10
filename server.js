@@ -16,7 +16,7 @@ const __dirname = path.dirname(__filename);
 // ✅ Caminhos corretos para a pasta temporária do Render
 const TEMP_DIR = "/tmp"; // no Render é "/tmp" (não "/temp")
 const MVP_KILLS_PATH = path.join(TEMP_DIR, "mvp_kills_data.json");
-const MVP_INFO_PATH = path.join(__dirname, "mvps_data.json");
+const MVP_INFO_PATH = path.join(TEMP_DIR, "mvps_data.json");
 
 app.use(cors());
 app.use(express.json());
