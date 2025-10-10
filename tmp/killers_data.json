@@ -1,0 +1,4873 @@
+[
+  {
+    "rank": 1,
+    "total_kills": 2423,
+    "char_id": 2000050,
+    "name": "Crux",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 11,
+    "hair": 7,
+    "hair_color": 0,
+    "clothes_color": 228,
+    "head_top": 382,
+    "head_mid": 345,
+    "head_bottom": 1416,
+    "robe": 27,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 495
+      },
+      {
+        "mob_id": 1039,
+        "kills": 2
+      },
+      {
+        "mob_id": 1112,
+        "kills": 150
+      },
+      {
+        "mob_id": 1251,
+        "kills": 877
+      },
+      {
+        "mob_id": 1115,
+        "kills": 38
+      },
+      {
+        "mob_id": 1190,
+        "kills": 6
+      },
+      {
+        "mob_id": 1087,
+        "kills": 34
+      },
+      {
+        "mob_id": 1086,
+        "kills": 2
+      },
+      {
+        "mob_id": 1159,
+        "kills": 55
+      },
+      {
+        "mob_id": 1147,
+        "kills": 10
+      },
+      {
+        "mob_id": 1059,
+        "kills": 505
+      },
+      {
+        "mob_id": 1272,
+        "kills": 47
+      },
+      {
+        "mob_id": 1418,
+        "kills": 40
+      },
+      {
+        "mob_id": 1389,
+        "kills": 157
+      },
+      {
+        "mob_id": 1046,
+        "kills": 4
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "total_kills": 1382,
+    "char_id": 2005245,
+    "name": "Bafo MvP",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 11,
+    "hair": 23,
+    "hair_color": 0,
+    "clothes_color": 387,
+    "head_top": 72,
+    "head_mid": 83,
+    "head_bottom": 57,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": {
+      "guild_id": 26,
+      "name": "Amigos do GM"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 152
+      },
+      {
+        "mob_id": 1251,
+        "kills": 247
+      },
+      {
+        "mob_id": 1159,
+        "kills": 44
+      },
+      {
+        "mob_id": 1115,
+        "kills": 45
+      },
+      {
+        "mob_id": 1112,
+        "kills": 123
+      },
+      {
+        "mob_id": 1150,
+        "kills": 40
+      },
+      {
+        "mob_id": 1087,
+        "kills": 61
+      },
+      {
+        "mob_id": 1046,
+        "kills": 16
+      },
+      {
+        "mob_id": 1039,
+        "kills": 84
+      },
+      {
+        "mob_id": 1147,
+        "kills": 94
+      },
+      {
+        "mob_id": 1059,
+        "kills": 242
+      },
+      {
+        "mob_id": 1038,
+        "kills": 34
+      },
+      {
+        "mob_id": 1272,
+        "kills": 137
+      },
+      {
+        "mob_id": 1157,
+        "kills": 2
+      },
+      {
+        "mob_id": 1418,
+        "kills": 7
+      },
+      {
+        "mob_id": 1190,
+        "kills": 46
+      },
+      {
+        "mob_id": 1312,
+        "kills": 1
+      },
+      {
+        "mob_id": 1086,
+        "kills": 3
+      },
+      {
+        "mob_id": 1511,
+        "kills": 2
+      },
+      {
+        "mob_id": 1492,
+        "kills": 1
+      },
+      {
+        "mob_id": 1389,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "total_kills": 941,
+    "char_id": 2014980,
+    "name": "Sileeent",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 20,
+    "hair": 21,
+    "hair_color": 6,
+    "clothes_color": 70,
+    "head_top": 225,
+    "head_mid": 2336,
+    "head_bottom": 1784,
+    "robe": 0,
+    "weapon": 14,
+    "sex": "F",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 238
+      },
+      {
+        "mob_id": 1159,
+        "kills": 159
+      },
+      {
+        "mob_id": 1115,
+        "kills": 186
+      },
+      {
+        "mob_id": 1150,
+        "kills": 67
+      },
+      {
+        "mob_id": 1087,
+        "kills": 48
+      },
+      {
+        "mob_id": 1086,
+        "kills": 23
+      },
+      {
+        "mob_id": 1389,
+        "kills": 69
+      },
+      {
+        "mob_id": 1112,
+        "kills": 38
+      },
+      {
+        "mob_id": 1251,
+        "kills": 51
+      },
+      {
+        "mob_id": 1059,
+        "kills": 52
+      },
+      {
+        "mob_id": 1147,
+        "kills": 5
+      },
+      {
+        "mob_id": 1190,
+        "kills": 2
+      },
+      {
+        "mob_id": 1046,
+        "kills": 2
+      },
+      {
+        "mob_id": 1039,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "total_kills": 743,
+    "char_id": 2005240,
+    "name": "nhexexe",
+    "base_level": 88,
+    "job_level": 50,
+    "class": 9,
+    "hair": 23,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 166,
+    "head_mid": 10,
+    "head_bottom": 52,
+    "robe": 169,
+    "weapon": 10,
+    "sex": "F",
+    "guild": {
+      "guild_id": 6,
+      "name": "Armpit Sniff Sniff"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 145
+      },
+      {
+        "mob_id": 1115,
+        "kills": 135
+      },
+      {
+        "mob_id": 1086,
+        "kills": 209
+      },
+      {
+        "mob_id": 1087,
+        "kills": 70
+      },
+      {
+        "mob_id": 1150,
+        "kills": 26
+      },
+      {
+        "mob_id": 1252,
+        "kills": 37
+      },
+      {
+        "mob_id": 1147,
+        "kills": 21
+      },
+      {
+        "mob_id": 1190,
+        "kills": 43
+      },
+      {
+        "mob_id": 1112,
+        "kills": 35
+      },
+      {
+        "mob_id": 1511,
+        "kills": 16
+      },
+      {
+        "mob_id": 1038,
+        "kills": 6
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "total_kills": 679,
+    "char_id": 2010962,
+    "name": "Lilka Eleniak",
+    "base_level": 85,
+    "job_level": 50,
+    "class": 9,
+    "hair": 17,
+    "hair_color": 7,
+    "clothes_color": 0,
+    "head_top": 19,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 23,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1147,
+        "kills": 472
+      },
+      {
+        "mob_id": 1159,
+        "kills": 63
+      },
+      {
+        "mob_id": 1038,
+        "kills": 52
+      },
+      {
+        "mob_id": 1190,
+        "kills": 51
+      },
+      {
+        "mob_id": 1087,
+        "kills": 37
+      },
+      {
+        "mob_id": 1511,
+        "kills": 1
+      },
+      {
+        "mob_id": 1112,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "total_kills": 562,
+    "char_id": 2011777,
+    "name": "Cecilia Adlehyde",
+    "base_level": 84,
+    "job_level": 47,
+    "class": 9,
+    "hair": 16,
+    "hair_color": 1,
+    "clothes_color": 0,
+    "head_top": 19,
+    "head_mid": 0,
+    "head_bottom": 56,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1147,
+        "kills": 46
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      },
+      {
+        "mob_id": 1038,
+        "kills": 514
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "total_kills": 551,
+    "char_id": 2005571,
+    "name": "RabeloGamesYT",
+    "base_level": 97,
+    "job_level": 50,
+    "class": 9,
+    "hair": 6,
+    "hair_color": 77,
+    "clothes_color": 606,
+    "head_top": 912,
+    "head_mid": 1488,
+    "head_bottom": 1691,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 551
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "total_kills": 496,
+    "char_id": 2000021,
+    "name": "Zeddicus MvP",
+    "base_level": 85,
+    "job_level": 50,
+    "class": 9,
+    "hair": 6,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": {
+      "guild_id": 12,
+      "name": "NINJAS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 46
+      },
+      {
+        "mob_id": 1115,
+        "kills": 134
+      },
+      {
+        "mob_id": 1150,
+        "kills": 74
+      },
+      {
+        "mob_id": 1159,
+        "kills": 117
+      },
+      {
+        "mob_id": 1147,
+        "kills": 17
+      },
+      {
+        "mob_id": 1087,
+        "kills": 58
+      },
+      {
+        "mob_id": 1252,
+        "kills": 3
+      },
+      {
+        "mob_id": 1190,
+        "kills": 19
+      },
+      {
+        "mob_id": 1112,
+        "kills": 10
+      },
+      {
+        "mob_id": 1038,
+        "kills": 8
+      },
+      {
+        "mob_id": 1418,
+        "kills": 4
+      },
+      {
+        "mob_id": 1511,
+        "kills": 1
+      },
+      {
+        "mob_id": 1312,
+        "kills": 2
+      },
+      {
+        "mob_id": 1046,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "total_kills": 433,
+    "char_id": 2007150,
+    "name": "Jack Arcanus",
+    "base_level": 86,
+    "job_level": 50,
+    "class": 9,
+    "hair": 8,
+    "hair_color": 7,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 23,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 10
+      },
+      {
+        "mob_id": 1150,
+        "kills": 221
+      },
+      {
+        "mob_id": 1087,
+        "kills": 25
+      },
+      {
+        "mob_id": 1038,
+        "kills": 89
+      },
+      {
+        "mob_id": 1115,
+        "kills": 10
+      },
+      {
+        "mob_id": 1312,
+        "kills": 1
+      },
+      {
+        "mob_id": 1190,
+        "kills": 35
+      },
+      {
+        "mob_id": 1147,
+        "kills": 1
+      },
+      {
+        "mob_id": 1112,
+        "kills": 40
+      },
+      {
+        "mob_id": 1511,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "total_kills": 334,
+    "char_id": 2018062,
+    "name": "chester bomba dois",
+    "base_level": 80,
+    "job_level": 49,
+    "class": 9,
+    "hair": 22,
+    "hair_color": 6,
+    "clothes_color": 582,
+    "head_top": 558,
+    "head_mid": 0,
+    "head_bottom": 8,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 151
+      },
+      {
+        "mob_id": 1115,
+        "kills": 44
+      },
+      {
+        "mob_id": 1086,
+        "kills": 134
+      },
+      {
+        "mob_id": 1087,
+        "kills": 5
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "total_kills": 325,
+    "char_id": 2019840,
+    "name": "Sileeeent",
+    "base_level": 94,
+    "job_level": 50,
+    "class": 11,
+    "hair": 21,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 382,
+    "head_mid": 2336,
+    "head_bottom": 1045,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "F",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1251,
+        "kills": 42
+      },
+      {
+        "mob_id": 1389,
+        "kills": 63
+      },
+      {
+        "mob_id": 1059,
+        "kills": 49
+      },
+      {
+        "mob_id": 1112,
+        "kills": 49
+      },
+      {
+        "mob_id": 1252,
+        "kills": 49
+      },
+      {
+        "mob_id": 1087,
+        "kills": 10
+      },
+      {
+        "mob_id": 1190,
+        "kills": 10
+      },
+      {
+        "mob_id": 1147,
+        "kills": 3
+      },
+      {
+        "mob_id": 1159,
+        "kills": 16
+      },
+      {
+        "mob_id": 1150,
+        "kills": 17
+      },
+      {
+        "mob_id": 1046,
+        "kills": 1
+      },
+      {
+        "mob_id": 1115,
+        "kills": 16
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "total_kills": 309,
+    "char_id": 2014063,
+    "name": "Torcilax",
+    "base_level": 81,
+    "job_level": 48,
+    "class": 9,
+    "hair": 30,
+    "hair_color": 91,
+    "clothes_color": 68,
+    "head_top": 102,
+    "head_mid": 78,
+    "head_bottom": 2335,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 46
+      },
+      {
+        "mob_id": 1115,
+        "kills": 58
+      },
+      {
+        "mob_id": 1086,
+        "kills": 16
+      },
+      {
+        "mob_id": 1159,
+        "kills": 49
+      },
+      {
+        "mob_id": 1252,
+        "kills": 48
+      },
+      {
+        "mob_id": 1190,
+        "kills": 21
+      },
+      {
+        "mob_id": 1112,
+        "kills": 14
+      },
+      {
+        "mob_id": 1147,
+        "kills": 22
+      },
+      {
+        "mob_id": 1150,
+        "kills": 22
+      },
+      {
+        "mob_id": 1251,
+        "kills": 5
+      },
+      {
+        "mob_id": 1038,
+        "kills": 8
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "total_kills": 258,
+    "char_id": 2010862,
+    "name": "Tim Rhymeless",
+    "base_level": 79,
+    "job_level": 47,
+    "class": 9,
+    "hair": 5,
+    "hair_color": 1,
+    "clothes_color": 0,
+    "head_top": 167,
+    "head_mid": 0,
+    "head_bottom": 54,
+    "robe": 0,
+    "weapon": 23,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1147,
+        "kills": 248
+      },
+      {
+        "mob_id": 1159,
+        "kills": 8
+      },
+      {
+        "mob_id": 1112,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "total_kills": 224,
+    "char_id": 2000175,
+    "name": "franco bs",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 10,
+    "hair": 9,
+    "hair_color": 1,
+    "clothes_color": 11,
+    "head_top": 381,
+    "head_mid": 73,
+    "head_bottom": 383,
+    "robe": 165,
+    "weapon": 8,
+    "sex": "M",
+    "guild": {
+      "guild_id": 7,
+      "name": "MvP"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 64
+      },
+      {
+        "mob_id": 1190,
+        "kills": 20
+      },
+      {
+        "mob_id": 1159,
+        "kills": 39
+      },
+      {
+        "mob_id": 1086,
+        "kills": 31
+      },
+      {
+        "mob_id": 1147,
+        "kills": 7
+      },
+      {
+        "mob_id": 1492,
+        "kills": 4
+      },
+      {
+        "mob_id": 1115,
+        "kills": 24
+      },
+      {
+        "mob_id": 1418,
+        "kills": 10
+      },
+      {
+        "mob_id": 1059,
+        "kills": 10
+      },
+      {
+        "mob_id": 1251,
+        "kills": 2
+      },
+      {
+        "mob_id": 1389,
+        "kills": 3
+      },
+      {
+        "mob_id": 1150,
+        "kills": 9
+      },
+      {
+        "mob_id": 1038,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "total_kills": 183,
+    "char_id": 2006543,
+    "name": "Yooh Wizz",
+    "base_level": 97,
+    "job_level": 50,
+    "class": 9,
+    "hair": 27,
+    "hair_color": 39,
+    "clothes_color": 493,
+    "head_top": 1592,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": {
+      "guild_id": 32,
+      "name": "Rainbow CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 14
+      },
+      {
+        "mob_id": 1115,
+        "kills": 70
+      },
+      {
+        "mob_id": 1086,
+        "kills": 98
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "total_kills": 178,
+    "char_id": 2000072,
+    "name": "alisa meu cajado",
+    "base_level": 77,
+    "job_level": 46,
+    "class": 9,
+    "hair": 27,
+    "hair_color": 98,
+    "clothes_color": 51,
+    "head_top": 17,
+    "head_mid": 10,
+    "head_bottom": 8,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 39
+      },
+      {
+        "mob_id": 1087,
+        "kills": 4
+      },
+      {
+        "mob_id": 1159,
+        "kills": 41
+      },
+      {
+        "mob_id": 1086,
+        "kills": 86
+      },
+      {
+        "mob_id": 1150,
+        "kills": 3
+      },
+      {
+        "mob_id": 1252,
+        "kills": 3
+      },
+      {
+        "mob_id": 1038,
+        "kills": 1
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "total_kills": 173,
+    "char_id": 2000036,
+    "name": "F3RA",
+    "base_level": 91,
+    "job_level": 50,
+    "class": 9,
+    "hair": 13,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 55
+      },
+      {
+        "mob_id": 1252,
+        "kills": 18
+      },
+      {
+        "mob_id": 1086,
+        "kills": 24
+      },
+      {
+        "mob_id": 1115,
+        "kills": 51
+      },
+      {
+        "mob_id": 1087,
+        "kills": 8
+      },
+      {
+        "mob_id": 1147,
+        "kills": 4
+      },
+      {
+        "mob_id": 1190,
+        "kills": 4
+      },
+      {
+        "mob_id": 1112,
+        "kills": 7
+      },
+      {
+        "mob_id": 1251,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "total_kills": 169,
+    "char_id": 2013799,
+    "name": "TacaFogo",
+    "base_level": 98,
+    "job_level": 50,
+    "class": 9,
+    "hair": 13,
+    "hair_color": 73,
+    "clothes_color": 609,
+    "head_top": 1479,
+    "head_mid": 2336,
+    "head_bottom": 1691,
+    "robe": 79,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 55
+      },
+      {
+        "mob_id": 1115,
+        "kills": 11
+      },
+      {
+        "mob_id": 1087,
+        "kills": 9
+      },
+      {
+        "mob_id": 1086,
+        "kills": 63
+      },
+      {
+        "mob_id": 1150,
+        "kills": 3
+      },
+      {
+        "mob_id": 1147,
+        "kills": 12
+      },
+      {
+        "mob_id": 1252,
+        "kills": 2
+      },
+      {
+        "mob_id": 1112,
+        "kills": 7
+      },
+      {
+        "mob_id": 1190,
+        "kills": 7
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "total_kills": 160,
+    "char_id": 2013832,
+    "name": "Cadique",
+    "base_level": 87,
+    "job_level": 50,
+    "class": 9,
+    "hair": 31,
+    "hair_color": 7,
+    "clothes_color": 17,
+    "head_top": 1671,
+    "head_mid": 404,
+    "head_bottom": 1691,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 19,
+      "name": "Epicentro"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 40
+      },
+      {
+        "mob_id": 1087,
+        "kills": 17
+      },
+      {
+        "mob_id": 1086,
+        "kills": 54
+      },
+      {
+        "mob_id": 1115,
+        "kills": 36
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 6
+      },
+      {
+        "mob_id": 1112,
+        "kills": 5
+      },
+      {
+        "mob_id": 1038,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "total_kills": 158,
+    "char_id": 2006122,
+    "name": "AachaaAachaa0",
+    "base_level": 84,
+    "job_level": 50,
+    "class": 11,
+    "hair": 35,
+    "hair_color": 7,
+    "clothes_color": 225,
+    "head_top": 165,
+    "head_mid": 0,
+    "head_bottom": 52,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 6,
+      "name": "Armpit Sniff Sniff"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 7
+      },
+      {
+        "mob_id": 1252,
+        "kills": 32
+      },
+      {
+        "mob_id": 1150,
+        "kills": 7
+      },
+      {
+        "mob_id": 1251,
+        "kills": 30
+      },
+      {
+        "mob_id": 1418,
+        "kills": 11
+      },
+      {
+        "mob_id": 1115,
+        "kills": 28
+      },
+      {
+        "mob_id": 1389,
+        "kills": 26
+      },
+      {
+        "mob_id": 1147,
+        "kills": 6
+      },
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1087,
+        "kills": 5
+      },
+      {
+        "mob_id": 1038,
+        "kills": 2
+      },
+      {
+        "mob_id": 1059,
+        "kills": 2
+      },
+      {
+        "mob_id": 1157,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "total_kills": 147,
+    "char_id": 2012604,
+    "name": "MacroBot2000",
+    "base_level": 84,
+    "job_level": 50,
+    "class": 11,
+    "hair": 1,
+    "hair_color": 8,
+    "clothes_color": 113,
+    "head_top": 254,
+    "head_mid": 125,
+    "head_bottom": 1501,
+    "robe": 79,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1251,
+        "kills": 34
+      },
+      {
+        "mob_id": 1059,
+        "kills": 26
+      },
+      {
+        "mob_id": 1389,
+        "kills": 29
+      },
+      {
+        "mob_id": 1112,
+        "kills": 25
+      },
+      {
+        "mob_id": 1150,
+        "kills": 13
+      },
+      {
+        "mob_id": 1046,
+        "kills": 8
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      },
+      {
+        "mob_id": 1190,
+        "kills": 2
+      },
+      {
+        "mob_id": 1087,
+        "kills": 2
+      },
+      {
+        "mob_id": 1147,
+        "kills": 4
+      },
+      {
+        "mob_id": 1039,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "total_kills": 139,
+    "char_id": 2012761,
+    "name": "Lucao",
+    "base_level": 95,
+    "job_level": 50,
+    "class": 11,
+    "hair": 19,
+    "hair_color": 12,
+    "clothes_color": 239,
+    "head_top": 254,
+    "head_mid": 83,
+    "head_bottom": 52,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 14
+      },
+      {
+        "mob_id": 1252,
+        "kills": 90
+      },
+      {
+        "mob_id": 1115,
+        "kills": 20
+      },
+      {
+        "mob_id": 1492,
+        "kills": 4
+      },
+      {
+        "mob_id": 1087,
+        "kills": 4
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      },
+      {
+        "mob_id": 1251,
+        "kills": 2
+      },
+      {
+        "mob_id": 1059,
+        "kills": 1
+      },
+      {
+        "mob_id": 1389,
+        "kills": 1
+      },
+      {
+        "mob_id": 1112,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "total_kills": 109,
+    "char_id": 2006425,
+    "name": "Kubikiribocho",
+    "base_level": 76,
+    "job_level": 46,
+    "class": 11,
+    "hair": 29,
+    "hair_color": 1,
+    "clothes_color": 113,
+    "head_top": 1592,
+    "head_mid": 83,
+    "head_bottom": 1501,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 8
+      },
+      {
+        "mob_id": 1150,
+        "kills": 7
+      },
+      {
+        "mob_id": 1418,
+        "kills": 17
+      },
+      {
+        "mob_id": 1389,
+        "kills": 15
+      },
+      {
+        "mob_id": 1252,
+        "kills": 18
+      },
+      {
+        "mob_id": 1251,
+        "kills": 8
+      },
+      {
+        "mob_id": 1038,
+        "kills": 9
+      },
+      {
+        "mob_id": 1157,
+        "kills": 1
+      },
+      {
+        "mob_id": 1059,
+        "kills": 15
+      },
+      {
+        "mob_id": 1147,
+        "kills": 4
+      },
+      {
+        "mob_id": 1087,
+        "kills": 2
+      },
+      {
+        "mob_id": 1511,
+        "kills": 3
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "total_kills": 105,
+    "char_id": 2009325,
+    "name": "Black Sin",
+    "base_level": 86,
+    "job_level": 50,
+    "class": 9,
+    "hair": 15,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 49,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 85
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      },
+      {
+        "mob_id": 1418,
+        "kills": 17
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "total_kills": 84,
+    "char_id": 2008429,
+    "name": "Shecil Damon",
+    "base_level": 81,
+    "job_level": 50,
+    "class": 11,
+    "hair": 21,
+    "hair_color": 1,
+    "clothes_color": 0,
+    "head_top": 1070,
+    "head_mid": 2528,
+    "head_bottom": 1263,
+    "robe": 165,
+    "weapon": 0,
+    "sex": "F",
+    "guild": {
+      "guild_id": 10,
+      "name": "Valkyrie"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1039,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 15
+      },
+      {
+        "mob_id": 1115,
+        "kills": 20
+      },
+      {
+        "mob_id": 1159,
+        "kills": 14
+      },
+      {
+        "mob_id": 1087,
+        "kills": 7
+      },
+      {
+        "mob_id": 1251,
+        "kills": 7
+      },
+      {
+        "mob_id": 1059,
+        "kills": 4
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      },
+      {
+        "mob_id": 1389,
+        "kills": 4
+      },
+      {
+        "mob_id": 1150,
+        "kills": 4
+      },
+      {
+        "mob_id": 1147,
+        "kills": 2
+      },
+      {
+        "mob_id": 1112,
+        "kills": 1
+      },
+      {
+        "mob_id": 1511,
+        "kills": 1
+      },
+      {
+        "mob_id": 1046,
+        "kills": 1
+      },
+      {
+        "mob_id": 1312,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 26,
+    "total_kills": 80,
+    "char_id": 2017283,
+    "name": "Unforgettable",
+    "base_level": 87,
+    "job_level": 50,
+    "class": 11,
+    "hair": 3,
+    "hair_color": 5,
+    "clothes_color": 0,
+    "head_top": 41,
+    "head_mid": 856,
+    "head_bottom": 188,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1389,
+        "kills": 5
+      },
+      {
+        "mob_id": 1112,
+        "kills": 5
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1039,
+        "kills": 18
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      },
+      {
+        "mob_id": 1059,
+        "kills": 35
+      },
+      {
+        "mob_id": 1251,
+        "kills": 7
+      },
+      {
+        "mob_id": 1157,
+        "kills": 2
+      },
+      {
+        "mob_id": 1046,
+        "kills": 1
+      },
+      {
+        "mob_id": 1272,
+        "kills": 2
+      },
+      {
+        "mob_id": 1038,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 27,
+    "total_kills": 77,
+    "char_id": 2007472,
+    "name": "Maiknn",
+    "base_level": 87,
+    "job_level": 50,
+    "class": 9,
+    "hair": 6,
+    "hair_color": 6,
+    "clothes_color": 62,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 45
+      },
+      {
+        "mob_id": 1115,
+        "kills": 10
+      },
+      {
+        "mob_id": 1086,
+        "kills": 22
+      }
+    ]
+  },
+  {
+    "rank": 28,
+    "total_kills": 72,
+    "char_id": 2002378,
+    "name": "crawler",
+    "base_level": 91,
+    "job_level": 50,
+    "class": 9,
+    "hair": 16,
+    "hair_color": 7,
+    "clothes_color": 100,
+    "head_top": 240,
+    "head_mid": 0,
+    "head_bottom": 52,
+    "robe": 87,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 40
+      },
+      {
+        "mob_id": 1086,
+        "kills": 3
+      },
+      {
+        "mob_id": 1159,
+        "kills": 27
+      },
+      {
+        "mob_id": 1150,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 29,
+    "total_kills": 69,
+    "char_id": 2000045,
+    "name": "Orc Hiro",
+    "base_level": 89,
+    "job_level": 50,
+    "class": 9,
+    "hair": 22,
+    "hair_color": 12,
+    "clothes_color": 196,
+    "head_top": 819,
+    "head_mid": 345,
+    "head_bottom": 369,
+    "robe": 217,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 10,
+      "name": "Valkyrie"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 20
+      },
+      {
+        "mob_id": 1115,
+        "kills": 7
+      },
+      {
+        "mob_id": 1159,
+        "kills": 14
+      },
+      {
+        "mob_id": 1086,
+        "kills": 3
+      },
+      {
+        "mob_id": 1150,
+        "kills": 2
+      },
+      {
+        "mob_id": 1112,
+        "kills": 4
+      },
+      {
+        "mob_id": 1147,
+        "kills": 5
+      },
+      {
+        "mob_id": 1087,
+        "kills": 4
+      },
+      {
+        "mob_id": 1251,
+        "kills": 2
+      },
+      {
+        "mob_id": 1190,
+        "kills": 6
+      },
+      {
+        "mob_id": 1039,
+        "kills": 1
+      },
+      {
+        "mob_id": 1312,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 30,
+    "total_kills": 69,
+    "char_id": 2019840,
+    "name": "Sileeeent",
+    "base_level": 93,
+    "job_level": 50,
+    "class": 11,
+    "hair": 21,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 513,
+    "head_mid": 345,
+    "head_bottom": 369,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "F",
+    "guild": {
+      "guild_id": 11,
+      "name": "White CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1251,
+        "kills": 13
+      },
+      {
+        "mob_id": 1389,
+        "kills": 15
+      },
+      {
+        "mob_id": 1059,
+        "kills": 13
+      },
+      {
+        "mob_id": 1112,
+        "kills": 12
+      },
+      {
+        "mob_id": 1252,
+        "kills": 10
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      },
+      {
+        "mob_id": 1147,
+        "kills": 2
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 31,
+    "total_kills": 64,
+    "char_id": 2000619,
+    "name": "Looki",
+    "base_level": 77,
+    "job_level": 47,
+    "class": 9,
+    "hair": 9,
+    "hair_color": 5,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 34
+      },
+      {
+        "mob_id": 1087,
+        "kills": 2
+      },
+      {
+        "mob_id": 1115,
+        "kills": 12
+      },
+      {
+        "mob_id": 1086,
+        "kills": 16
+      }
+    ]
+  },
+  {
+    "rank": 32,
+    "total_kills": 56,
+    "char_id": 2009631,
+    "name": "pardo",
+    "base_level": 93,
+    "job_level": 50,
+    "class": 9,
+    "hair": 10,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 76,
+    "head_mid": 65,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 23,
+    "sex": "F",
+    "guild": {
+      "guild_id": 25,
+      "name": "BRASIL OLHO CHORANDO"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1511,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 31
+      },
+      {
+        "mob_id": 1086,
+        "kills": 23
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 33,
+    "total_kills": 56,
+    "char_id": 2014505,
+    "name": "Carella",
+    "base_level": 80,
+    "job_level": 49,
+    "class": 9,
+    "hair": 10,
+    "hair_color": 2,
+    "clothes_color": 113,
+    "head_top": 1673,
+    "head_mid": 65,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 21,
+      "name": "dominance"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1511,
+        "kills": 4
+      },
+      {
+        "mob_id": 1252,
+        "kills": 2
+      },
+      {
+        "mob_id": 1115,
+        "kills": 4
+      },
+      {
+        "mob_id": 1159,
+        "kills": 9
+      },
+      {
+        "mob_id": 1087,
+        "kills": 5
+      },
+      {
+        "mob_id": 1150,
+        "kills": 5
+      },
+      {
+        "mob_id": 1190,
+        "kills": 10
+      },
+      {
+        "mob_id": 1038,
+        "kills": 3
+      },
+      {
+        "mob_id": 1112,
+        "kills": 11
+      },
+      {
+        "mob_id": 1147,
+        "kills": 2
+      },
+      {
+        "mob_id": 1086,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 34,
+    "total_kills": 39,
+    "char_id": 2005074,
+    "name": "BokiField",
+    "base_level": 85,
+    "job_level": 50,
+    "class": 7,
+    "hair": 25,
+    "hair_color": 10,
+    "clothes_color": 481,
+    "head_top": 2294,
+    "head_mid": 0,
+    "head_bottom": 1501,
+    "robe": 158,
+    "weapon": 0,
+    "sex": "M",
+    "guild": {
+      "guild_id": 6,
+      "name": "Armpit Sniff Sniff"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 20
+      },
+      {
+        "mob_id": 1115,
+        "kills": 5
+      },
+      {
+        "mob_id": 1086,
+        "kills": 3
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1418,
+        "kills": 2
+      },
+      {
+        "mob_id": 1389,
+        "kills": 2
+      },
+      {
+        "mob_id": 1147,
+        "kills": 3
+      },
+      {
+        "mob_id": 1150,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 35,
+    "total_kills": 39,
+    "char_id": 2009106,
+    "name": "WildTig3r",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 16,
+    "hair": 3,
+    "hair_color": 37,
+    "clothes_color": 408,
+    "head_top": 110,
+    "head_mid": 47,
+    "head_bottom": 57,
+    "robe": 165,
+    "weapon": 23,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 28
+      },
+      {
+        "mob_id": 1115,
+        "kills": 6
+      },
+      {
+        "mob_id": 1252,
+        "kills": 5
+      }
+    ]
+  },
+  {
+    "rank": 36,
+    "total_kills": 39,
+    "char_id": 2007367,
+    "name": "Erick 666",
+    "base_level": 93,
+    "job_level": 50,
+    "class": 11,
+    "hair": 1,
+    "hair_color": 6,
+    "clothes_color": 228,
+    "head_top": 165,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 36
+      },
+      {
+        "mob_id": 1115,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 37,
+    "total_kills": 38,
+    "char_id": 2012959,
+    "name": "Tendou",
+    "base_level": 84,
+    "job_level": 50,
+    "class": 11,
+    "hair": 16,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 1036,
+    "head_bottom": 57,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      },
+      {
+        "mob_id": 1251,
+        "kills": 8
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1150,
+        "kills": 17
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      },
+      {
+        "mob_id": 1059,
+        "kills": 8
+      }
+    ]
+  },
+  {
+    "rank": 38,
+    "total_kills": 38,
+    "char_id": 2010299,
+    "name": "Paii de Pet",
+    "base_level": 84,
+    "job_level": 50,
+    "class": 9,
+    "hair": 1,
+    "hair_color": 3,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 19,
+      "name": "Epicentro"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1150,
+        "kills": 9
+      },
+      {
+        "mob_id": 1087,
+        "kills": 6
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      },
+      {
+        "mob_id": 1190,
+        "kills": 4
+      },
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1147,
+        "kills": 2
+      },
+      {
+        "mob_id": 1115,
+        "kills": 4
+      },
+      {
+        "mob_id": 1112,
+        "kills": 4
+      },
+      {
+        "mob_id": 1039,
+        "kills": 5
+      }
+    ]
+  },
+  {
+    "rank": 39,
+    "total_kills": 37,
+    "char_id": 2008884,
+    "name": "Prionn",
+    "base_level": 90,
+    "job_level": 50,
+    "class": 7,
+    "hair": 15,
+    "hair_color": 0,
+    "clothes_color": 228,
+    "head_top": 692,
+    "head_mid": 0,
+    "head_bottom": 53,
+    "robe": 0,
+    "weapon": 5,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 35
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 40,
+    "total_kills": 36,
+    "char_id": 2000237,
+    "name": "Magrinho",
+    "base_level": 81,
+    "job_level": 50,
+    "class": 9,
+    "hair": 25,
+    "hair_color": 96,
+    "clothes_color": 677,
+    "head_top": 1592,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 124,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 17
+      },
+      {
+        "mob_id": 1086,
+        "kills": 6
+      },
+      {
+        "mob_id": 1087,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 6
+      },
+      {
+        "mob_id": 1159,
+        "kills": 5
+      }
+    ]
+  },
+  {
+    "rank": 41,
+    "total_kills": 35,
+    "char_id": 2002315,
+    "name": "Absyntho",
+    "base_level": 89,
+    "job_level": 50,
+    "class": 19,
+    "hair": 21,
+    "hair_color": 110,
+    "clothes_color": 663,
+    "head_top": 1663,
+    "head_mid": 2156,
+    "head_bottom": 25,
+    "robe": 47,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1389,
+        "kills": 11
+      },
+      {
+        "mob_id": 1059,
+        "kills": 5
+      },
+      {
+        "mob_id": 1112,
+        "kills": 3
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1252,
+        "kills": 5
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      },
+      {
+        "mob_id": 1115,
+        "kills": 4
+      },
+      {
+        "mob_id": 1147,
+        "kills": 1
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      },
+      {
+        "mob_id": 1251,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 42,
+    "total_kills": 34,
+    "char_id": 2010038,
+    "name": "Ken Saito",
+    "base_level": 87,
+    "job_level": 50,
+    "class": 9,
+    "hair": 25,
+    "hair_color": 0,
+    "clothes_color": 36,
+    "head_top": 72,
+    "head_mid": 75,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 34
+      }
+    ]
+  },
+  {
+    "rank": 43,
+    "total_kills": 34,
+    "char_id": 2002735,
+    "name": "Yupi",
+    "base_level": 86,
+    "job_level": 50,
+    "class": 11,
+    "hair": 4,
+    "hair_color": 0,
+    "clothes_color": 612,
+    "head_top": 558,
+    "head_mid": 404,
+    "head_bottom": 1901,
+    "robe": 68,
+    "weapon": 11,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 33
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 44,
+    "total_kills": 34,
+    "char_id": 2012791,
+    "name": "gabrielly",
+    "base_level": 83,
+    "job_level": 50,
+    "class": 9,
+    "hair": 15,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 45,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 5
+      },
+      {
+        "mob_id": 1086,
+        "kills": 29
+      }
+    ]
+  },
+  {
+    "rank": 45,
+    "total_kills": 33,
+    "char_id": 2018075,
+    "name": "Ice Wall",
+    "base_level": 81,
+    "job_level": 50,
+    "class": 9,
+    "hair": 19,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 17,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 35,
+      "name": "Puro Malte"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1112,
+        "kills": 4
+      },
+      {
+        "mob_id": 1159,
+        "kills": 6
+      },
+      {
+        "mob_id": 1150,
+        "kills": 2
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1252,
+        "kills": 3
+      },
+      {
+        "mob_id": 1038,
+        "kills": 3
+      },
+      {
+        "mob_id": 1086,
+        "kills": 2
+      },
+      {
+        "mob_id": 1039,
+        "kills": 2
+      },
+      {
+        "mob_id": 1272,
+        "kills": 4
+      },
+      {
+        "mob_id": 1147,
+        "kills": 6
+      }
+    ]
+  },
+  {
+    "rank": 46,
+    "total_kills": 33,
+    "char_id": 2000136,
+    "name": "CapataZ",
+    "base_level": 93,
+    "job_level": 50,
+    "class": 11,
+    "hair": 2,
+    "hair_color": 4,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 83,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 5
+      },
+      {
+        "mob_id": 1150,
+        "kills": 4
+      },
+      {
+        "mob_id": 1147,
+        "kills": 3
+      },
+      {
+        "mob_id": 1252,
+        "kills": 7
+      },
+      {
+        "mob_id": 1112,
+        "kills": 2
+      },
+      {
+        "mob_id": 1039,
+        "kills": 1
+      },
+      {
+        "mob_id": 1251,
+        "kills": 6
+      },
+      {
+        "mob_id": 1038,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 4
+      }
+    ]
+  },
+  {
+    "rank": 47,
+    "total_kills": 32,
+    "char_id": 2007325,
+    "name": "tplss w",
+    "base_level": 64,
+    "job_level": 47,
+    "class": 2,
+    "hair": 18,
+    "hair_color": 5,
+    "clothes_color": 0,
+    "head_top": 18,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 27
+      },
+      {
+        "mob_id": 1086,
+        "kills": 5
+      }
+    ]
+  },
+  {
+    "rank": 48,
+    "total_kills": 31,
+    "char_id": 2009615,
+    "name": "Camarada Ziggy",
+    "base_level": 83,
+    "job_level": 50,
+    "class": 9,
+    "hair": 21,
+    "hair_color": 39,
+    "clothes_color": 196,
+    "head_top": 1794,
+    "head_mid": 12,
+    "head_bottom": 25,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 13,
+      "name": "Sapos de Rodda"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 4
+      },
+      {
+        "mob_id": 1115,
+        "kills": 6
+      },
+      {
+        "mob_id": 1086,
+        "kills": 18
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 49,
+    "total_kills": 27,
+    "char_id": 2000033,
+    "name": "Bafo",
+    "base_level": 77,
+    "job_level": 47,
+    "class": 11,
+    "hair": 23,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1251,
+        "kills": 11
+      },
+      {
+        "mob_id": 1252,
+        "kills": 5
+      },
+      {
+        "mob_id": 1039,
+        "kills": 2
+      },
+      {
+        "mob_id": 1059,
+        "kills": 1
+      },
+      {
+        "mob_id": 1112,
+        "kills": 4
+      },
+      {
+        "mob_id": 1272,
+        "kills": 1
+      },
+      {
+        "mob_id": 1038,
+        "kills": 1
+      },
+      {
+        "mob_id": 1147,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 50,
+    "total_kills": 27,
+    "char_id": 2015226,
+    "name": "PeronesWz",
+    "base_level": 78,
+    "job_level": 46,
+    "class": 9,
+    "hair": 10,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 14
+      },
+      {
+        "mob_id": 1115,
+        "kills": 5
+      },
+      {
+        "mob_id": 1159,
+        "kills": 5
+      },
+      {
+        "mob_id": 1112,
+        "kills": 2
+      },
+      {
+        "mob_id": 1147,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 51,
+    "total_kills": 22,
+    "char_id": 2010251,
+    "name": "Twinrova",
+    "base_level": 80,
+    "job_level": 49,
+    "class": 9,
+    "hair": 3,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 22
+      }
+    ]
+  },
+  {
+    "rank": 52,
+    "total_kills": 21,
+    "char_id": 2000136,
+    "name": "CapataZ",
+    "base_level": 92,
+    "job_level": 50,
+    "class": 11,
+    "hair": 2,
+    "hair_color": 4,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 78,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 3
+      },
+      {
+        "mob_id": 1150,
+        "kills": 3
+      },
+      {
+        "mob_id": 1147,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 4
+      },
+      {
+        "mob_id": 1112,
+        "kills": 2
+      },
+      {
+        "mob_id": 1039,
+        "kills": 1
+      },
+      {
+        "mob_id": 1251,
+        "kills": 2
+      },
+      {
+        "mob_id": 1038,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 53,
+    "total_kills": 21,
+    "char_id": 2008038,
+    "name": "Jack Propugnator",
+    "base_level": 75,
+    "job_level": 45,
+    "class": 15,
+    "hair": 8,
+    "hair_color": 7,
+    "clothes_color": 0,
+    "head_top": 165,
+    "head_mid": 0,
+    "head_bottom": 57,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1157,
+        "kills": 1
+      },
+      {
+        "mob_id": 1389,
+        "kills": 1
+      },
+      {
+        "mob_id": 1272,
+        "kills": 17
+      },
+      {
+        "mob_id": 1059,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 54,
+    "total_kills": 20,
+    "char_id": 2006893,
+    "name": "Nitsuga",
+    "base_level": 78,
+    "job_level": 48,
+    "class": 9,
+    "hair": 8,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 1285,
+    "head_mid": 0,
+    "head_bottom": 1416,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 11
+      },
+      {
+        "mob_id": 1087,
+        "kills": 3
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 55,
+    "total_kills": 19,
+    "char_id": 2005074,
+    "name": "BokiField",
+    "base_level": 85,
+    "job_level": 50,
+    "class": 7,
+    "hair": 25,
+    "hair_color": 10,
+    "clothes_color": 481,
+    "head_top": 2294,
+    "head_mid": 0,
+    "head_bottom": 1501,
+    "robe": 158,
+    "weapon": 5,
+    "sex": "M",
+    "guild": {
+      "guild_id": 6,
+      "name": "Armpit Sniff Sniff"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 14
+      },
+      {
+        "mob_id": 1115,
+        "kills": 3
+      },
+      {
+        "mob_id": 1086,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 56,
+    "total_kills": 19,
+    "char_id": 2012589,
+    "name": "SrToniSniper",
+    "base_level": 96,
+    "job_level": 50,
+    "class": 11,
+    "hair": 18,
+    "hair_color": 1,
+    "clothes_color": 84,
+    "head_top": 72,
+    "head_mid": 875,
+    "head_bottom": 57,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1150,
+        "kills": 10
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      },
+      {
+        "mob_id": 1086,
+        "kills": 4
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 57,
+    "total_kills": 17,
+    "char_id": 2019840,
+    "name": "Sileeeent",
+    "base_level": 93,
+    "job_level": 50,
+    "class": 11,
+    "hair": 21,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 513,
+    "head_mid": 345,
+    "head_bottom": 369,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "F",
+    "guild": {
+      "guild_id": 11,
+      "name": "White CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1251,
+        "kills": 3
+      },
+      {
+        "mob_id": 1389,
+        "kills": 3
+      },
+      {
+        "mob_id": 1059,
+        "kills": 3
+      },
+      {
+        "mob_id": 1112,
+        "kills": 3
+      },
+      {
+        "mob_id": 1252,
+        "kills": 3
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 58,
+    "total_kills": 16,
+    "char_id": 2009417,
+    "name": "GiupSankino",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 9,
+    "hair": 20,
+    "hair_color": 6,
+    "clothes_color": 163,
+    "head_top": 76,
+    "head_mid": 422,
+    "head_bottom": 1499,
+    "robe": 147,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 9
+      },
+      {
+        "mob_id": 1086,
+        "kills": 5
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1147,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 59,
+    "total_kills": 15,
+    "char_id": 2000030,
+    "name": "Purity Ring",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 7,
+    "hair": 23,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 1527,
+    "head_mid": 875,
+    "head_bottom": 1501,
+    "robe": 0,
+    "weapon": 4,
+    "sex": "F",
+    "guild": {
+      "guild_id": 10,
+      "name": "Valkyrie"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1112,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 10
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1157,
+        "kills": 1
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 60,
+    "total_kills": 15,
+    "char_id": 2004820,
+    "name": "Kabal",
+    "base_level": 71,
+    "job_level": 35,
+    "class": 9,
+    "hair": 21,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 42,
+    "head_mid": 75,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 3
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 6
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1252,
+        "kills": 3
+      },
+      {
+        "mob_id": 1086,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 61,
+    "total_kills": 16,
+    "char_id": 2009417,
+    "name": "GiupSankino",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 9,
+    "hair": 20,
+    "hair_color": 6,
+    "clothes_color": 163,
+    "head_top": 76,
+    "head_mid": 422,
+    "head_bottom": 1499,
+    "robe": 147,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 9
+      },
+      {
+        "mob_id": 1086,
+        "kills": 5
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1147,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 62,
+    "total_kills": 16,
+    "char_id": 2014722,
+    "name": "Eugennie",
+    "base_level": 86,
+    "job_level": 50,
+    "class": 9,
+    "hair": 30,
+    "hair_color": 47,
+    "clothes_color": 520,
+    "head_top": 17,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 16
+      }
+    ]
+  },
+  {
+    "rank": 63,
+    "total_kills": 15,
+    "char_id": 2004820,
+    "name": "Kabal",
+    "base_level": 71,
+    "job_level": 35,
+    "class": 9,
+    "hair": 21,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 42,
+    "head_mid": 75,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 3
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 6
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1252,
+        "kills": 3
+      },
+      {
+        "mob_id": 1086,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 64,
+    "total_kills": 15,
+    "char_id": 2000030,
+    "name": "Purity Ring",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 7,
+    "hair": 23,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 1527,
+    "head_mid": 875,
+    "head_bottom": 1501,
+    "robe": 0,
+    "weapon": 4,
+    "sex": "F",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1112,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 10
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1157,
+        "kills": 1
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 65,
+    "total_kills": 14,
+    "char_id": 2017837,
+    "name": "chupa cu",
+    "base_level": 82,
+    "job_level": 50,
+    "class": 11,
+    "hair": 3,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 2336,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1039,
+        "kills": 6
+      },
+      {
+        "mob_id": 1272,
+        "kills": 2
+      },
+      {
+        "mob_id": 1112,
+        "kills": 1
+      },
+      {
+        "mob_id": 1038,
+        "kills": 2
+      },
+      {
+        "mob_id": 1059,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 66,
+    "total_kills": 14,
+    "char_id": 2002276,
+    "name": "Rougrot",
+    "base_level": 98,
+    "job_level": 50,
+    "class": 11,
+    "hair": 30,
+    "hair_color": 73,
+    "clothes_color": 1,
+    "head_top": 1188,
+    "head_mid": 1198,
+    "head_bottom": 1501,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 1
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1389,
+        "kills": 9
+      },
+      {
+        "mob_id": 1046,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 67,
+    "total_kills": 13,
+    "char_id": 2019269,
+    "name": "Hewg",
+    "base_level": 78,
+    "job_level": 49,
+    "class": 11,
+    "hair": 18,
+    "hair_color": 7,
+    "clothes_color": 0,
+    "head_top": 17,
+    "head_mid": 83,
+    "head_bottom": 56,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1059,
+        "kills": 13
+      }
+    ]
+  },
+  {
+    "rank": 68,
+    "total_kills": 11,
+    "char_id": 2006049,
+    "name": "Prime",
+    "base_level": 75,
+    "job_level": 41,
+    "class": 9,
+    "hair": 9,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 101,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 10
+      }
+    ]
+  },
+  {
+    "rank": 69,
+    "total_kills": 11,
+    "char_id": 2002287,
+    "name": "Sejuwizz",
+    "base_level": 74,
+    "job_level": 48,
+    "class": 9,
+    "hair": 23,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 74,
+    "head_mid": 0,
+    "head_bottom": 52,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 3
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      },
+      {
+        "mob_id": 1086,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 70,
+    "total_kills": 10,
+    "char_id": 2011417,
+    "name": "Jade",
+    "base_level": 88,
+    "job_level": 50,
+    "class": 11,
+    "hair": 25,
+    "hair_color": 102,
+    "clothes_color": 279,
+    "head_top": 1794,
+    "head_mid": 2528,
+    "head_bottom": 56,
+    "robe": 68,
+    "weapon": 11,
+    "sex": "F",
+    "guild": {
+      "guild_id": 32,
+      "name": "Rainbow CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1251,
+        "kills": 3
+      },
+      {
+        "mob_id": 1252,
+        "kills": 4
+      },
+      {
+        "mob_id": 1059,
+        "kills": 2
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 71,
+    "total_kills": 9,
+    "char_id": 2014042,
+    "name": "zDarkangel",
+    "base_level": 83,
+    "job_level": 50,
+    "class": 9,
+    "hair": 1,
+    "hair_color": 2,
+    "clothes_color": 60,
+    "head_top": 72,
+    "head_mid": 404,
+    "head_bottom": 56,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 7
+      },
+      {
+        "mob_id": 1252,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 72,
+    "total_kills": 9,
+    "char_id": 2009605,
+    "name": "Afanei",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 17,
+    "hair": 18,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 264,
+    "head_mid": 82,
+    "head_bottom": 56,
+    "robe": 0,
+    "weapon": 1,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1511,
+        "kills": 9
+      }
+    ]
+  },
+  {
+    "rank": 73,
+    "total_kills": 9,
+    "char_id": 2014042,
+    "name": "zDarkangel",
+    "base_level": 83,
+    "job_level": 50,
+    "class": 9,
+    "hair": 1,
+    "hair_color": 2,
+    "clothes_color": 60,
+    "head_top": 72,
+    "head_mid": 404,
+    "head_bottom": 56,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 7
+      },
+      {
+        "mob_id": 1252,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 74,
+    "total_kills": 7,
+    "char_id": 2020510,
+    "name": "Upatudo",
+    "base_level": 71,
+    "job_level": 46,
+    "class": 9,
+    "hair": 10,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1038,
+        "kills": 3
+      },
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1112,
+        "kills": 1
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 75,
+    "total_kills": 6,
+    "char_id": 2004268,
+    "name": "Aura",
+    "base_level": 96,
+    "job_level": 50,
+    "class": 15,
+    "hair": 21,
+    "hair_color": 0,
+    "clothes_color": 193,
+    "head_top": 165,
+    "head_mid": 78,
+    "head_bottom": 52,
+    "robe": 0,
+    "weapon": 8,
+    "sex": "F",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 76,
+    "total_kills": 6,
+    "char_id": 2016116,
+    "name": "O Bardo",
+    "base_level": 71,
+    "job_level": 41,
+    "class": 19,
+    "hair": 31,
+    "hair_color": 79,
+    "clothes_color": 668,
+    "head_top": 72,
+    "head_mid": 10,
+    "head_bottom": 54,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1059,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      },
+      {
+        "mob_id": 1251,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 77,
+    "total_kills": 6,
+    "char_id": 2003912,
+    "name": "Bafo Wizz",
+    "base_level": 72,
+    "job_level": 43,
+    "class": 9,
+    "hair": 23,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 2
+      },
+      {
+        "mob_id": 1112,
+        "kills": 1
+      },
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1190,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 78,
+    "total_kills": 6,
+    "char_id": 2012208,
+    "name": "BODYBUILDER SENSEI",
+    "base_level": 98,
+    "job_level": 50,
+    "class": 7,
+    "hair": 31,
+    "hair_color": 20,
+    "clothes_color": 228,
+    "head_top": 76,
+    "head_mid": 100,
+    "head_bottom": 53,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1115,
+        "kills": 3
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 79,
+    "total_kills": 6,
+    "char_id": 2012467,
+    "name": "Haori",
+    "base_level": 80,
+    "job_level": 48,
+    "class": 11,
+    "hair": 20,
+    "hair_color": 1,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 83,
+    "head_bottom": 54,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1059,
+        "kills": 3
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1251,
+        "kills": 1
+      },
+      {
+        "mob_id": 1389,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 80,
+    "total_kills": 5,
+    "char_id": 2000095,
+    "name": "Spartacus",
+    "base_level": 95,
+    "job_level": 50,
+    "class": 14,
+    "hair": 9,
+    "hair_color": 2,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 100,
+    "head_bottom": 55,
+    "robe": 0,
+    "weapon": 2,
+    "sex": "M",
+    "guild": {
+      "guild_id": 12,
+      "name": "NINJAS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1038,
+        "kills": 2
+      },
+      {
+        "mob_id": 1046,
+        "kills": 2
+      },
+      {
+        "mob_id": 1389,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 81,
+    "total_kills": 5,
+    "char_id": 2009411,
+    "name": "Tsunaki",
+    "base_level": 95,
+    "job_level": 50,
+    "class": 7,
+    "hair": 21,
+    "hair_color": 67,
+    "clothes_color": 452,
+    "head_top": 757,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 4,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1159,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 82,
+    "total_kills": 5,
+    "char_id": 2010870,
+    "name": "Yoohz",
+    "base_level": 90,
+    "job_level": 50,
+    "class": 11,
+    "hair": 3,
+    "hair_color": 114,
+    "clothes_color": 274,
+    "head_top": 1285,
+    "head_mid": 1036,
+    "head_bottom": 56,
+    "robe": 47,
+    "weapon": 11,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 3
+      },
+      {
+        "mob_id": 1252,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 83,
+    "total_kills": 5,
+    "char_id": 2019911,
+    "name": "Maguzin",
+    "base_level": 79,
+    "job_level": 49,
+    "class": 9,
+    "hair": 17,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 0,
+    "head_bottom": 57,
+    "robe": 0,
+    "weapon": 23,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 5
+      }
+    ]
+  },
+  {
+    "rank": 84,
+    "total_kills": 5,
+    "char_id": 2000140,
+    "name": "MacroBot1000",
+    "base_level": 99,
+    "job_level": 50,
+    "class": 14,
+    "hair": 14,
+    "hair_color": 6,
+    "clothes_color": 516,
+    "head_top": 102,
+    "head_mid": 100,
+    "head_bottom": 383,
+    "robe": 217,
+    "weapon": 2,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1046,
+        "kills": 4
+      },
+      {
+        "mob_id": 1389,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 85,
+    "total_kills": 4,
+    "char_id": 2003126,
+    "name": "talo de urtiga",
+    "base_level": 88,
+    "job_level": 50,
+    "class": 11,
+    "hair": 24,
+    "hair_color": 23,
+    "clothes_color": 654,
+    "head_top": 72,
+    "head_mid": 68,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1059,
+        "kills": 1
+      },
+      {
+        "mob_id": 1087,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 86,
+    "total_kills": 4,
+    "char_id": 2005153,
+    "name": "Victoria01",
+    "base_level": 69,
+    "job_level": 40,
+    "class": 11,
+    "hair": 18,
+    "hair_color": 8,
+    "clothes_color": 0,
+    "head_top": 3001,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "F",
+    "guild": {
+      "guild_id": 6,
+      "name": "Armpit Sniff Sniff"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 4
+      }
+    ]
+  },
+  {
+    "rank": 88,
+    "total_kills": 4,
+    "char_id": 2006558,
+    "name": "Ereshkigal",
+    "base_level": 88,
+    "job_level": 50,
+    "class": 14,
+    "hair": 31,
+    "hair_color": 66,
+    "clothes_color": 412,
+    "head_top": 1592,
+    "head_mid": 875,
+    "head_bottom": 653,
+    "robe": 0,
+    "weapon": 2,
+    "sex": "M",
+    "guild": {
+      "guild_id": 6,
+      "name": "Armpit Sniff Sniff"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1038,
+        "kills": 1
+      },
+      {
+        "mob_id": 1046,
+        "kills": 3
+      }
+    ]
+  },
+  {
+    "rank": 89,
+    "total_kills": 4,
+    "char_id": 2005479,
+    "name": "Dan1",
+    "base_level": 74,
+    "job_level": 43,
+    "class": 9,
+    "hair": 23,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 72,
+    "head_mid": 1198,
+    "head_bottom": 1499,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 2
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 90,
+    "total_kills": 4,
+    "char_id": 2007337,
+    "name": "Bruxa Keka",
+    "base_level": 69,
+    "job_level": 28,
+    "class": 9,
+    "hair": 21,
+    "hair_color": 1,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": {
+      "guild_id": 9,
+      "name": "Exiles"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1087,
+        "kills": 1
+      },
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 91,
+    "total_kills": 3,
+    "char_id": 2006876,
+    "name": "Jack Praedator",
+    "base_level": 70,
+    "job_level": 42,
+    "class": 11,
+    "hair": 8,
+    "hair_color": 7,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 83,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1389,
+        "kills": 2
+      },
+      {
+        "mob_id": 1418,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 92,
+    "total_kills": 3,
+    "char_id": 2006736,
+    "name": "Jasper",
+    "base_level": 76,
+    "job_level": 47,
+    "class": 7,
+    "hair": 2,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 40,
+    "head_mid": 100,
+    "head_bottom": 1416,
+    "robe": 0,
+    "weapon": 3,
+    "sex": "M",
+    "guild": {
+      "guild_id": 9,
+      "name": "Exiles"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 2
+      },
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 93,
+    "total_kills": 3,
+    "char_id": 2013181,
+    "name": "Agav Stanza",
+    "base_level": 70,
+    "job_level": 31,
+    "class": 9,
+    "hair": 5,
+    "hair_color": 4,
+    "clothes_color": 0,
+    "head_top": 45,
+    "head_mid": 68,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 12,
+      "name": "NINJAS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1115,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 94,
+    "total_kills": 2,
+    "char_id": 2008182,
+    "name": "Ken Takakura",
+    "base_level": 82,
+    "job_level": 50,
+    "class": 9,
+    "hair": 1,
+    "hair_color": 7,
+    "clothes_color": 0,
+    "head_top": 209,
+    "head_mid": 1036,
+    "head_bottom": 383,
+    "robe": 242,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 8,
+      "name": "Black CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 95,
+    "total_kills": 2,
+    "char_id": 2006702,
+    "name": "Samurai",
+    "base_level": 63,
+    "job_level": 33,
+    "class": 11,
+    "hair": 23,
+    "hair_color": 0,
+    "clothes_color": 0,
+    "head_top": 95,
+    "head_mid": 84,
+    "head_bottom": 0,
+    "robe": 124,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 9,
+      "name": "Exiles"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      },
+      {
+        "mob_id": 1252,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 96,
+    "total_kills": 2,
+    "char_id": 2020554,
+    "name": "Kherberus",
+    "base_level": 89,
+    "job_level": 50,
+    "class": 9,
+    "hair": 28,
+    "hair_color": 43,
+    "clothes_color": 609,
+    "head_top": 757,
+    "head_mid": 404,
+    "head_bottom": 1691,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 97,
+    "total_kills": 2,
+    "char_id": 2006413,
+    "name": "El Locomoto",
+    "base_level": 70,
+    "job_level": 37,
+    "class": 9,
+    "hair": 14,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 25,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      },
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 98,
+    "total_kills": 2,
+    "char_id": 2008963,
+    "name": "MisterioBoy",
+    "base_level": 80,
+    "job_level": 50,
+    "class": 9,
+    "hair": 23,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 25,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 99,
+    "total_kills": 2,
+    "char_id": 2018030,
+    "name": "Bruxa Safada",
+    "base_level": 71,
+    "job_level": 42,
+    "class": 9,
+    "hair": 2,
+    "hair_color": 28,
+    "clothes_color": 251,
+    "head_top": 0,
+    "head_mid": 1036,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": {
+      "guild_id": 27,
+      "name": "Caothik"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 100,
+    "total_kills": 2,
+    "char_id": 2007074,
+    "name": "Link",
+    "base_level": 95,
+    "job_level": 50,
+    "class": 7,
+    "hair": 28,
+    "hair_color": 7,
+    "clothes_color": 113,
+    "head_top": 523,
+    "head_mid": 73,
+    "head_bottom": 369,
+    "robe": 114,
+    "weapon": 4,
+    "sex": "M",
+    "guild": {
+      "guild_id": 2,
+      "name": "Kiko Zinho"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      },
+      {
+        "mob_id": 1150,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 101,
+    "total_kills": 2,
+    "char_id": 2014881,
+    "name": "RedNose Owl",
+    "base_level": 82,
+    "job_level": 50,
+    "class": 11,
+    "hair": 27,
+    "hair_color": 25,
+    "clothes_color": 241,
+    "head_top": 1671,
+    "head_mid": 404,
+    "head_bottom": 369,
+    "robe": 79,
+    "weapon": 11,
+    "sex": "M",
+    "guild": {
+      "guild_id": 13,
+      "name": "Sapos de Rodda"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 102,
+    "total_kills": 2,
+    "char_id": 2007998,
+    "name": "Yooh",
+    "base_level": 90,
+    "job_level": 50,
+    "class": 11,
+    "hair": 18,
+    "hair_color": 124,
+    "clothes_color": 87,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 161,
+    "weapon": 0,
+    "sex": "F",
+    "guild": {
+      "guild_id": 32,
+      "name": "Rainbow CatS"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1252,
+        "kills": 2
+      }
+    ]
+  },
+  {
+    "rank": 103,
+    "total_kills": 1,
+    "char_id": 150000,
+    "name": "Youko",
+    "base_level": 98,
+    "job_level": 50,
+    "class": 9,
+    "hair": 21,
+    "hair_color": 4,
+    "clothes_color": 39,
+    "head_top": 1070,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 146,
+    "weapon": 0,
+    "sex": "F",
+    "guild": {
+      "guild_id": 23,
+      "name": "Staff"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 2022,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 104,
+    "total_kills": 1,
+    "char_id": 2015785,
+    "name": "MIMmatei",
+    "base_level": 70,
+    "job_level": 37,
+    "class": 9,
+    "hair": 13,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 106,
+    "total_kills": 1,
+    "char_id": 2016017,
+    "name": "EL ZORRO",
+    "base_level": 88,
+    "job_level": 50,
+    "class": 14,
+    "hair": 2,
+    "hair_color": 3,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1112,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 107,
+    "total_kills": 1,
+    "char_id": 2015075,
+    "name": "chester bomba um",
+    "base_level": 70,
+    "job_level": 33,
+    "class": 11,
+    "hair": 22,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 83,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 108,
+    "total_kills": 1,
+    "char_id": 2007712,
+    "name": "Falken",
+    "base_level": 80,
+    "job_level": 49,
+    "class": 11,
+    "hair": 1,
+    "hair_color": 3,
+    "clothes_color": 0,
+    "head_top": 16,
+    "head_mid": 83,
+    "head_bottom": 52,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 110,
+    "total_kills": 1,
+    "char_id": 2011432,
+    "name": "TexugoDeBrigaMago",
+    "base_level": 71,
+    "job_level": 40,
+    "class": 9,
+    "hair": 3,
+    "hair_color": 5,
+    "clothes_color": 0,
+    "head_top": 18,
+    "head_mid": 65,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": {
+      "guild_id": 30,
+      "name": "STF"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 112,
+    "total_kills": 1,
+    "char_id": 2014773,
+    "name": "Shen Long",
+    "base_level": 92,
+    "job_level": 39,
+    "class": 15,
+    "hair": 3,
+    "hair_color": 6,
+    "clothes_color": 3,
+    "head_top": 513,
+    "head_mid": 856,
+    "head_bottom": 57,
+    "robe": 217,
+    "weapon": 8,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1046,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 110,
+    "total_kills": 1,
+    "char_id": 2015785,
+    "name": "MIMmatei",
+    "base_level": 71,
+    "job_level": 37,
+    "class": 9,
+    "hair": 13,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 112,
+    "total_kills": 1,
+    "char_id": 2016017,
+    "name": "EL ZORRO",
+    "base_level": 88,
+    "job_level": 50,
+    "class": 14,
+    "hair": 2,
+    "hair_color": 3,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 0,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 0,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1112,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 113,
+    "total_kills": 1,
+    "char_id": 2015075,
+    "name": "chester bomba um",
+    "base_level": 70,
+    "job_level": 33,
+    "class": 11,
+    "hair": 22,
+    "hair_color": 6,
+    "clothes_color": 0,
+    "head_top": 0,
+    "head_mid": 83,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "F",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 114,
+    "total_kills": 1,
+    "char_id": 2007712,
+    "name": "Falken",
+    "base_level": 80,
+    "job_level": 49,
+    "class": 11,
+    "hair": 1,
+    "hair_color": 3,
+    "clothes_color": 0,
+    "head_top": 16,
+    "head_mid": 83,
+    "head_bottom": 52,
+    "robe": 0,
+    "weapon": 11,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1159,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 116,
+    "total_kills": 1,
+    "char_id": 2011432,
+    "name": "TexugoDeBrigaMago",
+    "base_level": 71,
+    "job_level": 40,
+    "class": 9,
+    "hair": 3,
+    "hair_color": 5,
+    "clothes_color": 0,
+    "head_top": 18,
+    "head_mid": 65,
+    "head_bottom": 0,
+    "robe": 0,
+    "weapon": 10,
+    "sex": "F",
+    "guild": {
+      "guild_id": 30,
+      "name": "STF"
+    },
+    "mvp_kills": [
+      {
+        "mob_id": 1086,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 118,
+    "total_kills": 1,
+    "char_id": 2014773,
+    "name": "Shen Long",
+    "base_level": 92,
+    "job_level": 39,
+    "class": 15,
+    "hair": 3,
+    "hair_color": 6,
+    "clothes_color": 3,
+    "head_top": 165,
+    "head_mid": 152,
+    "head_bottom": 57,
+    "robe": 0,
+    "weapon": 8,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1046,
+        "kills": 1
+      }
+    ]
+  },
+  {
+    "rank": 119,
+    "total_kills": 1,
+    "char_id": 2018000,
+    "name": "Alexisonfire",
+    "base_level": 91,
+    "job_level": 50,
+    "class": 7,
+    "hair": 31,
+    "hair_color": 6,
+    "clothes_color": 228,
+    "head_top": 40,
+    "head_mid": 1186,
+    "head_bottom": 369,
+    "robe": 0,
+    "weapon": 5,
+    "sex": "M",
+    "guild": null,
+    "mvp_kills": [
+      {
+        "mob_id": 1087,
+        "kills": 1
+      }
+    ]
+  }
+]
