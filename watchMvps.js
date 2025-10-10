@@ -64,7 +64,7 @@ export function checkMvpChanges() {
       }
     });
   }
-
+  console.log(`🔍 Novo arquivo ${newData}`);
   if (updates.length > 0) {
     writeJson(cacheFile, newData);
     writeJson(mvpsFile, mvpsData);
