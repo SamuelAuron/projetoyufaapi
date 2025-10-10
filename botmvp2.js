@@ -42,6 +42,7 @@ async function scrapePage(browser, pageNumber) {
     for (let i = 0; i < data[1][3].children[2][3].children.length; i++) {
       results.push(data[1][3].children[2][3].children[i][3].character);
     }
+
     console.timeEnd(`⏳ Tempo para verificar a Página ${pageNumber}`);
     console.log(`✅ Página ${pageNumber} capturada com sucesso!`);
     await page.close();
@@ -55,10 +56,9 @@ async function scrapePage(browser, pageNumber) {
 }
 
 export async function runCrawler() {
-  console.time(`⏳ Tempo de Execuçaõ total do bot `);
+  console.time(`⏳ Tempo de Execução total do bot`);
   console.log("🚀 Iniciando o crawler...");
 
-  // 🔹 Abre o navegador uma única vez
   const browser = await puppeteer.launch({
     headless: true,
     userDataDir: "/tmp/puppeteer_cache",
@@ -77,10 +77,9 @@ export async function runCrawler() {
     allData = allData.concat(pageData);
   }
 
-  // 🔹 Fecha o navegador apenas no final
   await browser.close();
 
   console.log("✅ Coleta finalizada!");
-  writeFileSync("killers_data.json", JSON.stringify(allData, null, 2));
-  console.timeEnd(`⏳ Tempo de Execuçaõ total do bot `);
+  writeFileSync("/tmp/killers_data.json", JSON.stringify(allData, null, 2)); // ✅ ajuste para Render
+  console.timeEnd(`⏳ Tempo de Execução total do bot`);
 }
