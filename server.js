@@ -30,7 +30,7 @@ setInterval(async () => {
 }, 5 * 60 * 1000); // 1 minutos
 
 // Lê o arquivo mvps.json
-const mvps = JSON.parse(fs.readFileSync("/temp/mvp_kills_data.json", "utf-8"));
+const mvps = JSON.parse(fs.readFileSync("/tmp/mvp_kills_data.json", "utf-8"));
 const mvpsInfo = JSON.parse(fs.readFileSync("mvps_data.json", "utf-8"));
 
 
