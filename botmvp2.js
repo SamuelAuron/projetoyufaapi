@@ -61,6 +61,7 @@ export async function runCrawler() {
   // 🔹 Abre o navegador uma única vez
   const browser = await puppeteer.launch({
     headless: true,
+    userDataDir: "/tmp/puppeteer_cache",
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
